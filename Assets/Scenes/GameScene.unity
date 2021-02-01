@@ -498,12 +498,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0dd468f428b764ddc9083d34e553df56, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gameController: {fileID: 2046659340}
   target: {fileID: 1905075852}
   step: 1
   keyInput: 
   carName: 
   scoreboardPosition: {fileID: 880543147}
   position: 0
+  end: 0
 --- !u!1 &169935189
 GameObject:
   m_ObjectHideFlags: 0
@@ -784,7 +786,7 @@ GameObject:
   - component: {fileID: 362718784}
   - component: {fileID: 362718785}
   m_Layer: 0
-  m_Name: Player3
+  m_Name: SPELER 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1093,7 +1095,7 @@ GameObject:
   - component: {fileID: 880543148}
   - component: {fileID: 880543149}
   m_Layer: 0
-  m_Name: Player2
+  m_Name: SPELER 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1531,7 +1533,7 @@ GameObject:
   - component: {fileID: 1102205214}
   - component: {fileID: 1102205215}
   m_Layer: 0
-  m_Name: Player4
+  m_Name: SPELER 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1851,7 +1853,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1142219489}
   - component: {fileID: 1142219488}
-  - component: {fileID: 1142219491}
   - component: {fileID: 1142219490}
   m_Layer: 0
   m_Name: Player1Car
@@ -1937,33 +1938,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0dd468f428b764ddc9083d34e553df56, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gameController: {fileID: 2046659340}
   target: {fileID: 2024821220}
   step: 1
   keyInput: 
   carName: 
   scoreboardPosition: {fileID: 1917450667}
   position: 0
---- !u!50 &1142219491
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1142219487}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 0
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
+  end: 0
 --- !u!1 &1158397902
 GameObject:
   m_ObjectHideFlags: 0
@@ -2245,12 +2227,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0dd468f428b764ddc9083d34e553df56, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gameController: {fileID: 2046659340}
   target: {fileID: 1746718261}
   step: 1
   keyInput: 
   carName: 
   scoreboardPosition: {fileID: 362718783}
   position: 0
+  end: 0
 --- !u!1 &1276291818
 GameObject:
   m_ObjectHideFlags: 0
@@ -2771,12 +2755,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0dd468f428b764ddc9083d34e553df56, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gameController: {fileID: 2046659340}
   target: {fileID: 1749400128}
   step: 1
   keyInput: 
   carName: 
   scoreboardPosition: {fileID: 1102205213}
   position: 0
+  end: 0
 --- !u!1 &1444426650
 GameObject:
   m_ObjectHideFlags: 0
@@ -3448,7 +3434,7 @@ GameObject:
   - component: {fileID: 1917450668}
   - component: {fileID: 1917450669}
   m_Layer: 0
-  m_Name: Player1
+  m_Name: SPELER 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3697,12 +3683,16 @@ MonoBehaviour:
   - {fileID: 105766524}
   - {fileID: 1248075000}
   - {fileID: 1397491697}
-  playerPos:
-  - {fileID: 1917450667}
-  - {fileID: 880543147}
-  - {fileID: 362718783}
-  - {fileID: 1102205213}
   target1: {fileID: 1331211341}
   target2: {fileID: 185528657}
   target3: {fileID: 385467974}
   target4: {fileID: 1893851485}
+  Place1: {fileID: 1016491349}
+  Place2: {fileID: 1512146892}
+  Place3: {fileID: 58803912}
+  Place4: {fileID: 104470480}
+  beginScreen: {fileID: 835920580}
+  endScreen: {fileID: 824350984}
+  startTimer: 10
+  StartTimer: {fileID: 395575466}
+  gameIsActive: 0
