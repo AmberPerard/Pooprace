@@ -14,6 +14,8 @@ public class MoveCar : MonoBehaviour
     public GameObject scoreboardPosition;
     public int position = 0;
 
+    public Sprite endSprite;
+
     public bool end = false; 
 
     // Start is called before the first frame update

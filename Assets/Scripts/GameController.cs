@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 
 public class GameController : MonoBehaviour
@@ -18,12 +19,18 @@ public class GameController : MonoBehaviour
     public Text Place3;
     public Text Place4;
 
+    public Image IPlace1;
+    public Image IPlace2;
+    public Image IPlace3;
+
     // The popscreens for the info
     public GameObject beginScreen;
     public GameObject endScreen;
 
     public float startTimer = 10f;
     public Text StartTimer;
+
+    private float endTimer = 100f;
 
     public bool gameIsActive = false;
 
@@ -65,12 +72,31 @@ public class GameController : MonoBehaviour
 
         if (Carlist[0].end == true)
         {
+
+            endTimer -= Time.deltaTime;
             endScreen.SetActive(true);
             gameIsActive = false;
             Place1.text = Carlist[0].scoreboardPosition.name;
             Place2.text = Carlist[1].scoreboardPosition.name;
             Place3.text = Carlist[2].scoreboardPosition.name;
             Place4.text = Carlist[3].scoreboardPosition.name;
+
+            IPlace1.sprite = Carlist[0].endSprite;
+            IPlace2.sprite = Carlist[1].endSprite;
+            IPlace3.sprite = Carlist[2].endSprite;
+
+            //logic OR operator
+            if (endTimer <= 0 ^ Input.GetKeyDown("space"))
+            {
+                SceneManager.LoadScene(sceneName: "StartScene");
+            }
         }
+
+
+        ////logic OR operator
+        //if (endTimer <= 0 ^ Input.GetKeyDown("space"))
+        //{
+        //    SceneManager.LoadScene(sceneName: "StartScene");
+        //}
     }
 }

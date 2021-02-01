@@ -505,6 +505,7 @@ MonoBehaviour:
   carName: 
   scoreboardPosition: {fileID: 880543147}
   position: 0
+  endSprite: {fileID: 21300000, guid: 725b333aac9a54192977205c6bcbceea, type: 3}
   end: 0
 --- !u!1 &169935189
 GameObject:
@@ -1945,6 +1946,7 @@ MonoBehaviour:
   carName: 
   scoreboardPosition: {fileID: 1917450667}
   position: 0
+  endSprite: {fileID: 21300000, guid: 5ae9f07b4f03b4aafbb899cb78f0cf20, type: 3}
   end: 0
 --- !u!1 &1158397902
 GameObject:
@@ -2234,6 +2236,7 @@ MonoBehaviour:
   carName: 
   scoreboardPosition: {fileID: 362718783}
   position: 0
+  endSprite: {fileID: 21300000, guid: cdce1a00584ed41f7abc50dea8120c64, type: 3}
   end: 0
 --- !u!1 &1276291818
 GameObject:
@@ -2762,6 +2765,7 @@ MonoBehaviour:
   carName: 
   scoreboardPosition: {fileID: 1102205213}
   position: 0
+  endSprite: {fileID: 21300000, guid: 671bda55a983f4938a6cee7fea13bdcd, type: 3}
   end: 0
 --- !u!1 &1444426650
 GameObject:
@@ -3691,6 +3695,9 @@ MonoBehaviour:
   Place2: {fileID: 1512146892}
   Place3: {fileID: 58803912}
   Place4: {fileID: 104470480}
+  IPlace1: {fileID: 1324073555}
+  IPlace2: {fileID: 1064412139}
+  IPlace3: {fileID: 1118106748}
   beginScreen: {fileID: 835920580}
   endScreen: {fileID: 824350984}
   startTimer: 10
