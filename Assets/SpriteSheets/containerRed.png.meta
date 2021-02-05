@@ -1,0 +1,1810 @@
+fileFormatVersion: 2
+guid: 7cfc066d4aa30461e896e1f771f2e22f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5466707250983688426
+    second: 10cowtainer_red_00000
+  - first:
+      213: 3789726370165166166
+    second: 10cowtainer_red_00001
+  - first:
+      213: 4277158469815555109
+    second: 10cowtainer_red_00002
+  - first:
+      213: 4916509163294173467
+    second: 10cowtainer_red_00003
+  - first:
+      213: 3067415072374306430
+    second: 10cowtainer_red_00004
+  - first:
+      213: 2780929479666342524
+    second: 10cowtainer_red_00005
+  - first:
+      213: 5521431855607280724
+    second: 10cowtainer_red_00006
+  - first:
+      213: -549207741620852747
+    second: 10cowtainer_red_00007
+  - first:
+      213: -3599291212691895083
+    second: 10cowtainer_red_00008
+  - first:
+      213: 1042595664244686208
+    second: 10cowtainer_red_00009
+  - first:
+      213: -1635202816812805533
+    second: 10cowtainer_red_00010
+  - first:
+      213: -536860207225241863
+    second: 10cowtainer_red_00011
+  - first:
+      213: -6431908564632801202
+    second: 10cowtainer_red_00012
+  - first:
+      213: 3986377849190838324
+    second: 10cowtainer_red_00013
+  - first:
+      213: -1340834613801331692
+    second: 10cowtainer_red_00014
+  - first:
+      213: -1591328622371617034
+    second: 10cowtainer_red_00015
+  - first:
+      213: 2993705906130524714
+    second: 10cowtainer_red_00016
+  - first:
+      213: -6261878450194927922
+    second: 10cowtainer_red_00017
+  - first:
+      213: -1094597484469926205
+    second: 10cowtainer_red_00018
+  - first:
+      213: -7089915985511518144
+    second: 10cowtainer_red_00019
+  - first:
+      213: 3835610990597062298
+    second: 10cowtainer_red_00020
+  - first:
+      213: 5869714089456659167
+    second: 10cowtainer_red_00021
+  - first:
+      213: 4569149142292239937
+    second: 10cowtainer_red_00022
+  - first:
+      213: 7418164510542860514
+    second: 10cowtainer_red_00023
+  - first:
+      213: 8378575303831754497
+    second: 10cowtainer_red_00024
+  - first:
+      213: -6278910971686368535
+    second: 10cowtainer_red_00025
+  - first:
+      213: -2406804946224315345
+    second: 10cowtainer_red_00026
+  - first:
+      213: -6976194924759675393
+    second: 10cowtainer_red_00027
+  - first:
+      213: -306560623527852366
+    second: 10cowtainer_red_00028
+  - first:
+      213: -5434612330420474533
+    second: 10cowtainer_red_00029
+  - first:
+      213: 6863501767317422439
+    second: 10cowtainer_red_00030
+  - first:
+      213: -8390248936127902115
+    second: 10cowtainer_red_00031
+  - first:
+      213: -1075008284656758460
+    second: 10cowtainer_red_00032
+  - first:
+      213: -6343208283450170141
+    second: 10cowtainer_red_00033
+  - first:
+      213: -2462638227727243252
+    second: 10cowtainer_red_00034
+  - first:
+      213: 6878988564245684037
+    second: 10cowtainer_red_00035
+  - first:
+      213: -6564435522252171871
+    second: 10cowtainer_red_00036
+  - first:
+      213: 6237784885252014977
+    second: 10cowtainer_red_00037
+  - first:
+      213: 4690723861710579997
+    second: 10cowtainer_red_00038
+  - first:
+      213: -363529362887180645
+    second: 10cowtainer_red_00039
+  - first:
+      213: 2895220583865169048
+    second: 10cowtainer_red_00040
+  - first:
+      213: 6461389125868704380
+    second: 10cowtainer_red_00041
+  - first:
+      213: 7092564979967544252
+    second: 10cowtainer_red_00042
+  - first:
+      213: -9046549399554073961
+    second: 10cowtainer_red_00043
+  - first:
+      213: 1243085209099538238
+    second: 10cowtainer_red_00044
+  - first:
+      213: 4789661645402029565
+    second: 10cowtainer_red_00045
+  - first:
+      213: 4479752782412121222
+    second: 10cowtainer_red_00046
+  - first:
+      213: 4666698021386995911
+    second: 10cowtainer_red_00047
+  - first:
+      213: 3407828494003106446
+    second: 10cowtainer_red_00048
+  - first:
+      213: 4912343696654809328
+    second: 10cowtainer_red_00049
+  - first:
+      213: 6798831258674636472
+    second: 10cowtainer_red_00050
+  - first:
+      213: -7540667594637733804
+    second: 10cowtainer_red_00051
+  - first:
+      213: 3288297067234059638
+    second: 10cowtainer_red_00052
+  - first:
+      213: -3064317166364760977
+    second: 10cowtainer_red_00053
+  - first:
+      213: 3047841121968013790
+    second: 10cowtainer_red_00054
+  - first:
+      213: 7320043820768279070
+    second: 10cowtainer_red_00055
+  - first:
+      213: 4256264901650029437
+    second: 10cowtainer_red_00056
+  - first:
+      213: -5508678071277476597
+    second: 10cowtainer_red_00057
+  - first:
+      213: 538922637668234793
+    second: 10cowtainer_red_00058
+  - first:
+      213: 3802031090785728645
+    second: 10cowtainer_red_00059
+  - first:
+      213: 2460203268124702803
+    second: 10cowtainer_red_00060
+  - first:
+      213: 8919895045703925442
+    second: 10cowtainer_red_00061
+  - first:
+      213: 351363279413661800
+    second: 10cowtainer_red_00062
+  - first:
+      213: -2584607122045521218
+    second: 10cowtainer_red_00063
+  - first:
+      213: 1824001096134161719
+    second: 10cowtainer_red_00064
+  - first:
+      213: 8618765879274788446
+    second: 10cowtainer_red_00065
+  - first:
+      213: -1396932235027303444
+    second: 10cowtainer_red_00066
+  - first:
+      213: 7467520154840970711
+    second: 10cowtainer_red_00067
+  - first:
+      213: -3154285514876447143
+    second: 10cowtainer_red_00068
+  - first:
+      213: -8482540934940755957
+    second: 10cowtainer_red_00069
+  - first:
+      213: 8124310464245170238
+    second: 10cowtainer_red_00070
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 10cowtainer_red_00000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae85fe9e745addb40800000000000000
+      internalID: 5466707250983688426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00001
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65010a90e00d79430800000000000000
+      internalID: 3789726370165166166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00002
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524d86987f48b5b30800000000000000
+      internalID: 4277158469815555109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00003
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b192a150903fa3440800000000000000
+      internalID: 4916509163294173467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00004
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76bc87a1c5a19a20800000000000000
+      internalID: 3067415072374306430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00005
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a9ce4b0a8d79620800000000000000
+      internalID: 2780929479666342524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00006
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4547ff4d40110ac40800000000000000
+      internalID: 5521431855607280724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00007
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f76bc40872d068f0800000000000000
+      internalID: -549207741620852747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00008
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc805046bfbc0ec0800000000000000
+      internalID: -3599291212691895083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00009
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dbaa39b3b087e00800000000000000
+      internalID: 1042595664244686208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00010
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3629728a3b79e49e0800000000000000
+      internalID: -1635202816812805533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00011
+      rect:
+        serializedVersion: 2
+        x: 6105
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fefb466c70bc88f0800000000000000
+      internalID: -536860207225241863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00012
+      rect:
+        serializedVersion: 2
+        x: 6660
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40f449fc354db6a0800000000000000
+      internalID: -6431908564632801202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00013
+      rect:
+        serializedVersion: 2
+        x: 7215
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43071897885725730800000000000000
+      internalID: 3986377849190838324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00014
+      rect:
+        serializedVersion: 2
+        x: 7770
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414d2d5d506646de0800000000000000
+      internalID: -1340834613801331692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00015
+      rect:
+        serializedVersion: 2
+        x: 8325
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6c0a69c077ae9e0800000000000000
+      internalID: -1591328622371617034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00016
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a16e809a7cb8920800000000000000
+      internalID: 2993705906130524714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00017
+      rect:
+        serializedVersion: 2
+        x: 9435
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece2575f9b65919a0800000000000000
+      internalID: -6261878450194927922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00018
+      rect:
+        serializedVersion: 2
+        x: 9990
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6422623653fc0f0800000000000000
+      internalID: -1094597484469926205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00019
+      rect:
+        serializedVersion: 2
+        x: 10545
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040f834a9fe8b9d90800000000000000
+      internalID: -7089915985511518144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00020
+      rect:
+        serializedVersion: 2
+        x: 11100
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e3f1fbfd3da3530800000000000000
+      internalID: 3835610990597062298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00021
+      rect:
+        serializedVersion: 2
+        x: 11655
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda6b238dd9657150800000000000000
+      internalID: 5869714089456659167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00022
+      rect:
+        serializedVersion: 2
+        x: 12210
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1461c10cfe0e86f30800000000000000
+      internalID: 4569149142292239937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00023
+      rect:
+        serializedVersion: 2
+        x: 12765
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e01158b15d92f660800000000000000
+      internalID: 7418164510542860514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00024
+      rect:
+        serializedVersion: 2
+        x: 13320
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10790c4e8dda64470800000000000000
+      internalID: 8378575303831754497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00025
+      rect:
+        serializedVersion: 2
+        x: 13875
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eac4540db3dcd8a0800000000000000
+      internalID: -6278910971686368535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00026
+      rect:
+        serializedVersion: 2
+        x: 14430
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2485a837af499ed0800000000000000
+      internalID: -2406804946224315345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00027
+      rect:
+        serializedVersion: 2
+        x: 14985
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd01d96da39f2f90800000000000000
+      internalID: -6976194924759675393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00028
+      rect:
+        serializedVersion: 2
+        x: 15540
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b60084bcb0eebbf0800000000000000
+      internalID: -306560623527852366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00029
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d645911e06494b0800000000000000
+      internalID: -5434612330420474533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00030
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76188343e7e004f50800000000000000
+      internalID: 6863501767317422439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00031
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e4ff8cb09df8b80800000000000000
+      internalID: -8390248936127902115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00032
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4419e6629adc411f0800000000000000
+      internalID: -1075008284656758460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00033
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e423a88ca568f7a0800000000000000
+      internalID: -6343208283450170141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00034
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08250a5493f2ddd0800000000000000
+      internalID: -2462638227727243252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00035
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f96d917a3177f50800000000000000
+      internalID: 6878988564245684037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00036
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a514312ca076e4a0800000000000000
+      internalID: -6564435522252171871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00037
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1834fbecd40119650800000000000000
+      internalID: 6237784885252014977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00038
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1925bcef7cc81140800000000000000
+      internalID: 4690723861710579997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00039
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e7fa378fb74faf0800000000000000
+      internalID: -363529362887180645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00040
+      rect:
+        serializedVersion: 2
+        x: 6105
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894beaf08c3ed2820800000000000000
+      internalID: 2895220583865169048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00041
+      rect:
+        serializedVersion: 2
+        x: 6660
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72d9f21d277ba950800000000000000
+      internalID: 6461389125868704380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00042
+      rect:
+        serializedVersion: 2
+        x: 7215
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb4751754add6260800000000000000
+      internalID: 7092564979967544252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00043
+      rect:
+        serializedVersion: 2
+        x: 7770
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a5e847043347280800000000000000
+      internalID: -9046549399554073961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00044
+      rect:
+        serializedVersion: 2
+        x: 8325
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f8be95963504110800000000000000
+      internalID: 1243085209099538238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00045
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd3088c3eb487240800000000000000
+      internalID: 4789661645402029565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00046
+      rect:
+        serializedVersion: 2
+        x: 9435
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6840e3dbb674b2e30800000000000000
+      internalID: 4479752782412121222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00047
+      rect:
+        serializedVersion: 2
+        x: 9990
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c84ace002173c040800000000000000
+      internalID: 4666698021386995911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00048
+      rect:
+        serializedVersion: 2
+        x: 10545
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e827288b5f90b4f20800000000000000
+      internalID: 3407828494003106446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00049
+      rect:
+        serializedVersion: 2
+        x: 11100
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f83dbdb0962c2440800000000000000
+      internalID: 4912343696654809328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00050
+      rect:
+        serializedVersion: 2
+        x: 11655
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6af1d020d4a5e50800000000000000
+      internalID: 6798831258674636472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00051
+      rect:
+        serializedVersion: 2
+        x: 12210
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450915c56ca2a5790800000000000000
+      internalID: -7540667594637733804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00052
+      rect:
+        serializedVersion: 2
+        x: 12765
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675e170b2c062ad20800000000000000
+      internalID: 3288297067234059638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00053
+      rect:
+        serializedVersion: 2
+        x: 13320
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6462bbc5cb5975d0800000000000000
+      internalID: -3064317166364760977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00054
+      rect:
+        serializedVersion: 2
+        x: 13875
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed14bbe2a5b1c4a20800000000000000
+      internalID: 3047841121968013790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00055
+      rect:
+        serializedVersion: 2
+        x: 14430
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1abf2d5215069560800000000000000
+      internalID: 7320043820768279070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00056
+      rect:
+        serializedVersion: 2
+        x: 14985
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b10dc906a411b30800000000000000
+      internalID: 4256264901650029437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00057
+      rect:
+        serializedVersion: 2
+        x: 15540
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05a58bfa7e3d83b0800000000000000
+      internalID: -5508678071277476597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00058
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926b1ab9843aa7700800000000000000
+      internalID: 538922637668234793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00059
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588364f022783c430800000000000000
+      internalID: 3802031090785728645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00060
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358f3df66d5642220800000000000000
+      internalID: 2460203268124702803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00061
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cef2f0d845d9cb70800000000000000
+      internalID: 8919895045703925442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00062
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86051908a0b40e400800000000000000
+      internalID: 351363279413661800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00063
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2388e2481a12cd0800000000000000
+      internalID: -2584607122045521218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00064
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735fffc3557205910800000000000000
+      internalID: 1824001096134161719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00065
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e565e6c27e10c9770800000000000000
+      internalID: 8618765879274788446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00066
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3b7e398891d9ce0800000000000000
+      internalID: -1396932235027303444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00067
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5bd562406f1a760800000000000000
+      internalID: 7467520154840970711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00068
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95611ad490ab934d0800000000000000
+      internalID: -3154285514876447143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00069
+      rect:
+        serializedVersion: 2
+        x: 6105
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08752c46f5f74a80800000000000000
+      internalID: -8482540934940755957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10cowtainer_red_00070
+      rect:
+        serializedVersion: 2
+        x: 6660
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e308252a2595fb070800000000000000
+      internalID: 8124310464245170238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

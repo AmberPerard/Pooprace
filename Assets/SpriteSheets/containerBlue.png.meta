@@ -1,0 +1,2023 @@
+fileFormatVersion: 2
+guid: 8b838d61d6cea45c08d444e0a26cdeaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8388046041893816705
+    second: 7cowtainer_blue_00000
+  - first:
+      213: 6275279387575553537
+    second: 7cowtainer_blue_00001
+  - first:
+      213: 8405025945233624553
+    second: 7cowtainer_blue_00002
+  - first:
+      213: -5063972174503953368
+    second: 7cowtainer_blue_00003
+  - first:
+      213: -5539217906501723898
+    second: 7cowtainer_blue_00004
+  - first:
+      213: 2864060002757268299
+    second: 7cowtainer_blue_00005
+  - first:
+      213: 1814226811104484067
+    second: 7cowtainer_blue_00006
+  - first:
+      213: 2260362671769428592
+    second: 7cowtainer_blue_00007
+  - first:
+      213: 3120812100651565151
+    second: 7cowtainer_blue_00008
+  - first:
+      213: -8429553329856132365
+    second: 7cowtainer_blue_00009
+  - first:
+      213: -6359875593019248133
+    second: 7cowtainer_blue_00010
+  - first:
+      213: -29542805623564236
+    second: 7cowtainer_blue_00011
+  - first:
+      213: 3991880226778130697
+    second: 7cowtainer_blue_00012
+  - first:
+      213: 2542105887180723040
+    second: 7cowtainer_blue_00013
+  - first:
+      213: 6446596416171544429
+    second: 7cowtainer_blue_00014
+  - first:
+      213: -3832061167758631789
+    second: 7cowtainer_blue_00015
+  - first:
+      213: -3539212744440368984
+    second: 7cowtainer_blue_00016
+  - first:
+      213: -2387905242418856231
+    second: 7cowtainer_blue_00017
+  - first:
+      213: -3701027841870409315
+    second: 7cowtainer_blue_00018
+  - first:
+      213: 6498566995981280198
+    second: 7cowtainer_blue_00019
+  - first:
+      213: -9215338435548542569
+    second: 7cowtainer_blue_00020
+  - first:
+      213: -4241506725396545828
+    second: 7cowtainer_blue_00021
+  - first:
+      213: 7251494754018056169
+    second: 7cowtainer_blue_00022
+  - first:
+      213: 8057020787984312849
+    second: 7cowtainer_blue_00023
+  - first:
+      213: -6839740350799185927
+    second: 7cowtainer_blue_00024
+  - first:
+      213: 1369773348096272915
+    second: 7cowtainer_blue_00025
+  - first:
+      213: -7609197835224954905
+    second: 7cowtainer_blue_00026
+  - first:
+      213: -460273678873284219
+    second: 7cowtainer_blue_00027
+  - first:
+      213: 4272283834926573771
+    second: 7cowtainer_blue_00028
+  - first:
+      213: -2689384801118132221
+    second: 7cowtainer_blue_00029
+  - first:
+      213: 7210962201170206521
+    second: 7cowtainer_blue_00030
+  - first:
+      213: -4438811614579045955
+    second: 7cowtainer_blue_00031
+  - first:
+      213: 8674664980660711708
+    second: 7cowtainer_blue_00032
+  - first:
+      213: 7445026284238959654
+    second: 7cowtainer_blue_00033
+  - first:
+      213: -6228494185299023575
+    second: 7cowtainer_blue_00034
+  - first:
+      213: -1960572545799136405
+    second: 7cowtainer_blue_00035
+  - first:
+      213: -6743259488242411042
+    second: 7cowtainer_blue_00036
+  - first:
+      213: 3730623458243840798
+    second: 7cowtainer_blue_00037
+  - first:
+      213: -5713557202371172007
+    second: 7cowtainer_blue_00038
+  - first:
+      213: -429524934371134540
+    second: 7cowtainer_blue_00039
+  - first:
+      213: -6553263714136169134
+    second: 7cowtainer_blue_00040
+  - first:
+      213: 3750552772474916773
+    second: 7cowtainer_blue_00041
+  - first:
+      213: 2993295963179308037
+    second: 7cowtainer_blue_00042
+  - first:
+      213: -7110425349570059158
+    second: 7cowtainer_blue_00043
+  - first:
+      213: 5923622095637949013
+    second: 7cowtainer_blue_00044
+  - first:
+      213: 5911227927927290030
+    second: 7cowtainer_blue_00045
+  - first:
+      213: 2470429106926613725
+    second: 7cowtainer_blue_00046
+  - first:
+      213: -987811736753141552
+    second: 7cowtainer_blue_00047
+  - first:
+      213: 2534354816027633752
+    second: 7cowtainer_blue_00048
+  - first:
+      213: -1322772332691971089
+    second: 7cowtainer_blue_00049
+  - first:
+      213: 342806853952909075
+    second: 7cowtainer_blue_00050
+  - first:
+      213: -1245601618126807914
+    second: 7cowtainer_blue_00051
+  - first:
+      213: -6780728074980369189
+    second: 7cowtainer_blue_00052
+  - first:
+      213: 6252569590990119950
+    second: 7cowtainer_blue_00053
+  - first:
+      213: 8937905729936251806
+    second: 7cowtainer_blue_00054
+  - first:
+      213: 8100285113803816653
+    second: 7cowtainer_blue_00055
+  - first:
+      213: 677284205149938985
+    second: 7cowtainer_blue_00056
+  - first:
+      213: 4007090578951652745
+    second: 7cowtainer_blue_00057
+  - first:
+      213: 4224482701728558688
+    second: 7cowtainer_blue_00058
+  - first:
+      213: -7753144283365568557
+    second: 7cowtainer_blue_00059
+  - first:
+      213: -8022547947486538583
+    second: 7cowtainer_blue_00060
+  - first:
+      213: -4488966444147244087
+    second: 7cowtainer_blue_00061
+  - first:
+      213: -6756158361816591422
+    second: 7cowtainer_blue_00062
+  - first:
+      213: -1349790915375339025
+    second: 7cowtainer_blue_00063
+  - first:
+      213: -1223559896866189462
+    second: 7cowtainer_blue_00064
+  - first:
+      213: -545036502638574206
+    second: 7cowtainer_blue_00065
+  - first:
+      213: 671335672851923187
+    second: 7cowtainer_blue_00066
+  - first:
+      213: 2685327481265564556
+    second: 7cowtainer_blue_00067
+  - first:
+      213: -8097602357503687076
+    second: 7cowtainer_blue_00068
+  - first:
+      213: 5584947153966012569
+    second: 7cowtainer_blue_00069
+  - first:
+      213: 7514281106693727719
+    second: 7cowtainer_blue_00070
+  - first:
+      213: -593348178987301694
+    second: containerBlue_0
+  - first:
+      213: -4994764067469109924
+    second: containerBlue_1
+  - first:
+      213: 3698330923766092213
+    second: containerBlue_2
+  - first:
+      213: -4280121626086833978
+    second: containerBlue_3
+  - first:
+      213: -356751714900862363
+    second: containerBlue_4
+  - first:
+      213: 4359568146368212250
+    second: containerBlue_5
+  - first:
+      213: -9087628989851354460
+    second: containerBlue_6
+  - first:
+      213: -2780326464785922852
+    second: containerBlue_7
+  - first:
+      213: 5672759515517067122
+    second: containerBlue_8
+  - first:
+      213: -6469947222071625966
+    second: containerBlue_9
+  - first:
+      213: 2653752365882134191
+    second: containerBlue_10
+  - first:
+      213: 1942975546379708318
+    second: containerBlue_11
+  - first:
+      213: 6368683477745834380
+    second: containerBlue_12
+  - first:
+      213: -8729643033453447934
+    second: containerBlue_13
+  - first:
+      213: -1159009927612740967
+    second: containerBlue_14
+  - first:
+      213: 8971856698570693181
+    second: containerBlue_15
+  - first:
+      213: -8602280612828691772
+    second: containerBlue_16
+  - first:
+      213: -8340933825765267443
+    second: containerBlue_17
+  - first:
+      213: 7444331973597503241
+    second: containerBlue_18
+  - first:
+      213: 7686567694463469999
+    second: containerBlue_19
+  - first:
+      213: -2230484391432080078
+    second: containerBlue_20
+  - first:
+      213: 5074435720841194536
+    second: containerBlue_21
+  - first:
+      213: 2688724649741682723
+    second: containerBlue_22
+  - first:
+      213: 6774723547137129540
+    second: containerBlue_23
+  - first:
+      213: -8769485005339533297
+    second: containerBlue_24
+  - first:
+      213: -1048072754688579654
+    second: containerBlue_25
+  - first:
+      213: -5411518114877917411
+    second: containerBlue_26
+  - first:
+      213: 1286399091592743134
+    second: containerBlue_27
+  - first:
+      213: 1515399998493286722
+    second: containerBlue_28
+  - first:
+      213: 1460834238538363196
+    second: containerBlue_29
+  - first:
+      213: 2537511549215804905
+    second: containerBlue_30
+  - first:
+      213: 7949491034481887345
+    second: containerBlue_31
+  - first:
+      213: -1441247211160309474
+    second: containerBlue_32
+  - first:
+      213: -3031962329648768885
+    second: containerBlue_33
+  - first:
+      213: -4060475979079931244
+    second: containerBlue_34
+  - first:
+      213: 7684968318256667791
+    second: containerBlue_35
+  - first:
+      213: -8311175750369248489
+    second: containerBlue_36
+  - first:
+      213: -6602892861296384796
+    second: containerBlue_37
+  - first:
+      213: 7547511857785302103
+    second: containerBlue_38
+  - first:
+      213: -3284040962665447875
+    second: containerBlue_39
+  - first:
+      213: 3220559852609281468
+    second: containerBlue_40
+  - first:
+      213: -5474322141871940712
+    second: containerBlue_41
+  - first:
+      213: 5312985138700877141
+    second: containerBlue_42
+  - first:
+      213: 9171638226793381029
+    second: containerBlue_43
+  - first:
+      213: -8489342880481440066
+    second: containerBlue_44
+  - first:
+      213: -4941903140950188905
+    second: containerBlue_45
+  - first:
+      213: -8148251544075690297
+    second: containerBlue_46
+  - first:
+      213: 3509108305756817239
+    second: containerBlue_47
+  - first:
+      213: -3504112381404648970
+    second: containerBlue_48
+  - first:
+      213: -1614969786763506156
+    second: containerBlue_49
+  - first:
+      213: 9061410316757614100
+    second: containerBlue_50
+  - first:
+      213: -2731496430190373308
+    second: containerBlue_51
+  - first:
+      213: 6004978607930573571
+    second: containerBlue_52
+  - first:
+      213: 5731171819978566274
+    second: containerBlue_53
+  - first:
+      213: 4898347604626171110
+    second: containerBlue_54
+  - first:
+      213: -2028588789069837382
+    second: containerBlue_55
+  - first:
+      213: 8751281375081123574
+    second: containerBlue_56
+  - first:
+      213: -337953563530473899
+    second: containerBlue_57
+  - first:
+      213: -8789001358393178937
+    second: containerBlue_58
+  - first:
+      213: -2147150200181600088
+    second: containerBlue_59
+  - first:
+      213: 853754039490391364
+    second: containerBlue_60
+  - first:
+      213: -7497326038276086530
+    second: containerBlue_61
+  - first:
+      213: -8366309247575831366
+    second: containerBlue_62
+  - first:
+      213: 1346692875991329566
+    second: containerBlue_63
+  - first:
+      213: 21222134040125486
+    second: containerBlue_64
+  - first:
+      213: -8932086458009206316
+    second: containerBlue_65
+  - first:
+      213: 6759658455800935453
+    second: containerBlue_66
+  - first:
+      213: -6089670504804621942
+    second: containerBlue_67
+  - first:
+      213: 5145164552603775834
+    second: containerBlue_68
+  - first:
+      213: 7019789576335257936
+    second: containerBlue_69
+  - first:
+      213: 8899118185683960835
+    second: containerBlue_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f763c41119ca79b80800000000000000
+      internalID: -8388046041893816705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00001
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e85caea55461750800000000000000
+      internalID: 6275279387575553537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00002
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed8791c096a4a470800000000000000
+      internalID: 8405025945233624553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00003
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cba3a232829b9b0800000000000000
+      internalID: -5063972174503953368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00004
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6095b7d79aeb023b0800000000000000
+      internalID: -5539217906501723898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00005
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4350c7e56f2fb720800000000000000
+      internalID: 2864060002757268299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00006
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea5fd92cad6d2910800000000000000
+      internalID: 1814226811104484067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00007
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072ae52cfdb6e5f10800000000000000
+      internalID: 2260362671769428592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00008
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50c31e121a5f4b20800000000000000
+      internalID: 3120812100651565151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00009
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fac6be78e5340b80800000000000000
+      internalID: -8429553329856132365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00010
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1396e18de2db7a0800000000000000
+      internalID: -6359875593019248133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00011
+      rect:
+        serializedVersion: 2
+        x: 6105
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438932d89fa079ff0800000000000000
+      internalID: -29542805623564236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00012
+      rect:
+        serializedVersion: 2
+        x: 6660
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90924079ae1066730800000000000000
+      internalID: 3991880226778130697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00013
+      rect:
+        serializedVersion: 2
+        x: 7215
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06316d2f5df574320800000000000000
+      internalID: 2542105887180723040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00014
+      rect:
+        serializedVersion: 2
+        x: 7770
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f0634f849e67950800000000000000
+      internalID: 6446596416171544429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00015
+      rect:
+        serializedVersion: 2
+        x: 8325
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c9d2acba8c1dac0800000000000000
+      internalID: -3832061167758631789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00016
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0b81fa2c032eec0800000000000000
+      internalID: -3539212744440368984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00017
+      rect:
+        serializedVersion: 2
+        x: 9435
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deb45c65d47cded0800000000000000
+      internalID: -2387905242418856231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00018
+      rect:
+        serializedVersion: 2
+        x: 9990
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91db7569ce43acc0800000000000000
+      internalID: -3701027841870409315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00019
+      rect:
+        serializedVersion: 2
+        x: 10545
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3aa80804c8f2a50800000000000000
+      internalID: 6498566995981280198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00020
+      rect:
+        serializedVersion: 2
+        x: 11100
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7990020948a8c1080800000000000000
+      internalID: -9215338435548542569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00021
+      rect:
+        serializedVersion: 2
+        x: 11655
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdefe401b142325c0800000000000000
+      internalID: -4241506725396545828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00022
+      rect:
+        serializedVersion: 2
+        x: 12210
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7dad70f0c72a460800000000000000
+      internalID: 7251494754018056169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00023
+      rect:
+        serializedVersion: 2
+        x: 12765
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a2ebff7b940df60800000000000000
+      internalID: 8057020787984312849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00024
+      rect:
+        serializedVersion: 2
+        x: 13320
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f775b2b36c5411a0800000000000000
+      internalID: -6839740350799185927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00025
+      rect:
+        serializedVersion: 2
+        x: 13875
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a631c4a99620310800000000000000
+      internalID: 1369773348096272915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00026
+      rect:
+        serializedVersion: 2
+        x: 14430
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7ceb552e2b66690800000000000000
+      internalID: -7609197835224954905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00027
+      rect:
+        serializedVersion: 2
+        x: 14985
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581bb471787cc99f0800000000000000
+      internalID: -460273678873284219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00028
+      rect:
+        serializedVersion: 2
+        x: 15540
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8217823833a4b30800000000000000
+      internalID: 4272283834926573771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00029
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308e409b5c26daad0800000000000000
+      internalID: -2689384801118132221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00030
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fd489aaeb721460800000000000000
+      internalID: 7210962201170206521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00031
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db94328ba5c2662c0800000000000000
+      internalID: -4438811614579045955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00032
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c117dcde6d9926870800000000000000
+      internalID: 8674664980660711708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00033
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6247287c5fb025760800000000000000
+      internalID: 7445026284238959654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00034
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9296aa7d981ff89a0800000000000000
+      internalID: -6228494185299023575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00035
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b524b38a5aac4e0800000000000000
+      internalID: -1960572545799136405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00036
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9570709312b62a0800000000000000
+      internalID: -6743259488242411042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00037
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b0d530546d5c330800000000000000
+      internalID: 3730623458243840798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00038
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959aac40ffd55b0b0800000000000000
+      internalID: -5713557202371172007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00039
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3b2a019550a0af0800000000000000
+      internalID: -429524934371134540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00040
+      rect:
+        serializedVersion: 2
+        x: 6105
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255e4776f512e05a0800000000000000
+      internalID: -6553263714136169134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00041
+      rect:
+        serializedVersion: 2
+        x: 6660
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af49b210e3ac0430800000000000000
+      internalID: 3750552772474916773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00042
+      rect:
+        serializedVersion: 2
+        x: 7215
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504d9e0c1d25a8920800000000000000
+      internalID: 2993295963179308037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00043
+      rect:
+        serializedVersion: 2
+        x: 7770
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64a1f431d1b25d90800000000000000
+      internalID: -7110425349570059158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00044
+      rect:
+        serializedVersion: 2
+        x: 8325
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55aa72a49eee43250800000000000000
+      internalID: 5923622095637949013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00045
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8797e3b76e80250800000000000000
+      internalID: 5911227927927290030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00046
+      rect:
+        serializedVersion: 2
+        x: 9435
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd475211f2ab84220800000000000000
+      internalID: 2470429106926613725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00047
+      rect:
+        serializedVersion: 2
+        x: 9990
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d80ed585769a42f0800000000000000
+      internalID: -987811736753141552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00048
+      rect:
+        serializedVersion: 2
+        x: 10545
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858a0201746db2320800000000000000
+      internalID: 2534354816027633752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00049
+      rect:
+        serializedVersion: 2
+        x: 11100
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe32e2f529194ade0800000000000000
+      internalID: -1322772332691971089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00050
+      rect:
+        serializedVersion: 2
+        x: 11655
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fae647405e1c400800000000000000
+      internalID: 342806853952909075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00051
+      rect:
+        serializedVersion: 2
+        x: 12210
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c56e38debb6bee0800000000000000
+      internalID: -1245601618126807914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00052
+      rect:
+        serializedVersion: 2
+        x: 12765
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcd64cddb306e1a0800000000000000
+      internalID: -6780728074980369189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00053
+      rect:
+        serializedVersion: 2
+        x: 13320
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04206c5ae695c650800000000000000
+      internalID: 6252569590990119950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00054
+      rect:
+        serializedVersion: 2
+        x: 13875
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b57c408e1d90c70800000000000000
+      internalID: 8937905729936251806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00055
+      rect:
+        serializedVersion: 2
+        x: 14430
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce39a3d46ef96070800000000000000
+      internalID: 8100285113803816653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00056
+      rect:
+        serializedVersion: 2
+        x: 14985
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925e1fb6562366900800000000000000
+      internalID: 677284205149938985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00057
+      rect:
+        serializedVersion: 2
+        x: 15540
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9854a3da6ab0c9730800000000000000
+      internalID: 4007090578951652745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00058
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e205c82a060aa30800000000000000
+      internalID: 4224482701728558688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00059
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df05a92a5c476490800000000000000
+      internalID: -7753144283365568557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00060
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a49684a52f2aa090800000000000000
+      internalID: -8022547947486538583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00061
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c384f77dccf3b1c0800000000000000
+      internalID: -4488966444147244087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00062
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c313adf3cd4d32a0800000000000000
+      internalID: -6756158361816591422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00063
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9e0006054944de0800000000000000
+      internalID: -1349790915375339025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00064
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f80e9a1ca050fe0800000000000000
+      internalID: -1223559896866189462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00065
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2854b964034af68f0800000000000000
+      internalID: -545036502638574206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00066
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f00361dc30115900800000000000000
+      internalID: 671335672851923187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00067
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bad62ed13344520800000000000000
+      internalID: 2685327481265564556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00068
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5680ac0f898f9f80800000000000000
+      internalID: -8097602357503687076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00069
+      rect:
+        serializedVersion: 2
+        x: 6105
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9981971a8d7b18d40800000000000000
+      internalID: 5584947153966012569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7cowtainer_blue_00070
+      rect:
+        serializedVersion: 2
+        x: 6660
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5a8eaaad6184860800000000000000
+      internalID: 7514281106693727719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f8723cc31a6ad455298fd5efe4bf0f75
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

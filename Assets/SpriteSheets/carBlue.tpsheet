@@ -1,0 +1,35 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:97b8fde156b99c651f3eeecef61b997a:905457d24450429af328a470697bb127:95a6dcc92ce2014a6f41a3698fe2c660$
+#
+:format=40300
+:texture=carBlue.png
+:size=1024x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+3cars_blue_00000;0;1786;312;262; 0.5;0.5; 0;0;0;0
+3cars_blue_00001;312;1785;312;263; 0.5;0.5; 0;0;0;0
+3cars_blue_00002;624;1785;312;263; 0.5;0.5; 0;0;0;0
+3cars_blue_00003;0;1519;312;264; 0.5;0.5; 0;0;0;0
+3cars_blue_00004;312;1518;312;265; 0.5;0.5; 0;0;0;0
+3cars_blue_00005;624;1518;312;265; 0.5;0.5; 0;0;0;0
+3cars_blue_00006;0;1253;312;265; 0.5;0.5; 0;0;0;0
+3cars_blue_00007;312;1254;312;264; 0.5;0.5; 0;0;0;0
+3cars_blue_00008;624;1255;312;263; 0.5;0.5; 0;0;0;0
+3cars_blue_00009;0;990;312;263; 0.5;0.5; 0;0;0;0
+3cars_blue_00010;312;991;312;262; 0.5;0.5; 0;0;0;0
+3cars_blue_00011;624;990;312;263; 0.5;0.5; 0;0;0;0
+3cars_blue_00012;0;725;312;263; 0.5;0.5; 0;0;0;0
+3cars_blue_00013;312;725;312;263; 0.5;0.5; 0;0;0;0
+3cars_blue_00014;624;724;312;264; 0.5;0.5; 0;0;0;0
+3cars_blue_00015;0;459;312;264; 0.5;0.5; 0;0;0;0
+3cars_blue_00016;312;459;312;264; 0.5;0.5; 0;0;0;0
+3cars_blue_00017;624;460;312;263; 0.5;0.5; 0;0;0;0
+3cars_blue_00018;0;195;312;263; 0.5;0.5; 0;0;0;0
+3cars_blue_00019;312;195;312;263; 0.5;0.5; 0;0;0;0
