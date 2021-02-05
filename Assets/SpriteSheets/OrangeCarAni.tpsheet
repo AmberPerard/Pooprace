@@ -1,0 +1,35 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:e268c2d2c9331c2f89a3aaa0a61597d7:1302e5644d057d893d2abbd59ac31e2b:78afac727730d8de8fdcabc395d66b72$
+#
+:format=40300
+:texture=OrangeCarAni.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+5cars_orange_00000;1;1676;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00001;467;1676;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00002;933;1676;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00003;1399;1676;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00004;1;1303;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00005;1;930;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00006;1;557;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00007;1;184;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00008;467;1303;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00009;933;1303;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00010;1;1676;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00011;1399;1303;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00012;467;930;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00013;467;557;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00014;467;184;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00015;933;930;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00016;1399;930;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00017;933;557;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00018;933;184;464;371; 0.5;0.5; 0;0;0;0
+5cars_orange_00019;1399;557;464;371; 0.5;0.5; 0;0;0;0

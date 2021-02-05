@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 78981ac92d11a454b9bc58cf621f49b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2136399119526983105
+    second: GreenCarAni_0
+  - first:
+      213: -7717524966587279911
+    second: GreenCarAni_1
+  - first:
+      213: -4498990533541576930
+    second: GreenCarAni_2
+  - first:
+      213: -7085242182973569773
+    second: GreenCarAni_3
+  - first:
+      213: -4744369675633799990
+    second: GreenCarAni_4
+  - first:
+      213: 5276788961149356322
+    second: GreenCarAni_5
+  - first:
+      213: 7174671551084471493
+    second: GreenCarAni_6
+  - first:
+      213: -5144243366480097086
+    second: GreenCarAni_7
+  - first:
+      213: -2331430301549312377
+    second: GreenCarAni_8
+  - first:
+      213: -2956036484572465555
+    second: GreenCarAni_9
+  - first:
+      213: 911614673794547421
+    second: GreenCarAni_10
+  - first:
+      213: -8375390319733947812
+    second: GreenCarAni_11
+  - first:
+      213: -2310886311277026419
+    second: GreenCarAni_12
+  - first:
+      213: -5210045323017803631
+    second: GreenCarAni_13
+  - first:
+      213: 1650991084683751538
+    second: GreenCarAni_14
+  - first:
+      213: -535001746073440080
+    second: GreenCarAni_15
+  - first:
+      213: -3189063228614996792
+    second: GreenCarAni_16
+  - first:
+      213: 3253731384033267236
+    second: GreenCarAni_17
+  - first:
+      213: 7071927426084833975
+    second: GreenCarAni_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenCarAni_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1675
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a0326e15cf952e0800000000000000
+      internalID: -2136399119526983105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1675
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d55b5d9ee7d5e490800000000000000
+      internalID: -7717524966587279911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_2
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1675
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fb86842ff5091c0800000000000000
+      internalID: -4498990533541576930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_3
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1675
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3154f3816c92cad90800000000000000
+      internalID: -7085242182973569773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc46b0baec982eb0800000000000000
+      internalID: -4744369675633799990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1302
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22982004a9bea3940800000000000000
+      internalID: 5276788961149356322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_6
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1302
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4ad7e33cd819360800000000000000
+      internalID: 7174671551084471493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_7
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1302
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c05bced9e9fb98b0800000000000000
+      internalID: -5144243366480097086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78642914e7815afd0800000000000000
+      internalID: -2331430301549312377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 929
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66b6f1aa7c0af6d0800000000000000
+      internalID: -2956036484572465555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_10
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 929
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddebe8347b4b6ac00800000000000000
+      internalID: 911614673794547421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_11
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 929
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52430101e2a4cb80800000000000000
+      internalID: -8375390319733947812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83250cb4251eefd0800000000000000
+      internalID: -2310886311277026419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 556
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198a6d9f16332b7b0800000000000000
+      internalID: -5210045323017803631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_14
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 556
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27079e9e4af79e610800000000000000
+      internalID: 1650991084683751538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_15
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 556
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0341b1fba4398f0800000000000000
+      internalID: -535001746073440080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc8424d3eb2eb3d0800000000000000
+      internalID: -3189063228614996792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_17
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 183
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ec7db6473972d20800000000000000
+      internalID: 3253731384033267236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenCarAni_18
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 183
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba012d7688842260800000000000000
+      internalID: 7071927426084833975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

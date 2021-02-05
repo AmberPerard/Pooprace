@@ -1,0 +1,1834 @@
+fileFormatVersion: 2
+guid: 6bc8058172f544ecaa53bd6c2979a7cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -556349049966634035
+    second: BlueContainerAni_0
+  - first:
+      213: 7839657273485359681
+    second: BlueContainerAni_1
+  - first:
+      213: -2499062805554516561
+    second: BlueContainerAni_2
+  - first:
+      213: 2743327873360078413
+    second: BlueContainerAni_3
+  - first:
+      213: 177043539068682463
+    second: BlueContainerAni_4
+  - first:
+      213: 4026412885541805434
+    second: BlueContainerAni_5
+  - first:
+      213: -6377310755035601590
+    second: BlueContainerAni_6
+  - first:
+      213: -958740038963480891
+    second: BlueContainerAni_7
+  - first:
+      213: -6604805433176620313
+    second: BlueContainerAni_8
+  - first:
+      213: 5572888387611928348
+    second: BlueContainerAni_9
+  - first:
+      213: 467830532022446848
+    second: BlueContainerAni_10
+  - first:
+      213: -1050485079878939014
+    second: BlueContainerAni_11
+  - first:
+      213: 3113452468721143817
+    second: BlueContainerAni_12
+  - first:
+      213: -1756552719440361664
+    second: BlueContainerAni_13
+  - first:
+      213: 5148948217478811760
+    second: BlueContainerAni_14
+  - first:
+      213: -3742878459291227521
+    second: BlueContainerAni_15
+  - first:
+      213: -7136654358110738684
+    second: BlueContainerAni_16
+  - first:
+      213: 6544818923426220856
+    second: BlueContainerAni_17
+  - first:
+      213: -41702822425388761
+    second: BlueContainerAni_18
+  - first:
+      213: -1662685590983608023
+    second: BlueContainerAni_19
+  - first:
+      213: 4824462563576313623
+    second: BlueContainerAni_20
+  - first:
+      213: -7361217152802864502
+    second: BlueContainerAni_21
+  - first:
+      213: -2486359589488702879
+    second: BlueContainerAni_22
+  - first:
+      213: 2557148482849776770
+    second: BlueContainerAni_23
+  - first:
+      213: -8537771964782376489
+    second: BlueContainerAni_24
+  - first:
+      213: 3671988896081783854
+    second: BlueContainerAni_25
+  - first:
+      213: 3838572524230784341
+    second: BlueContainerAni_26
+  - first:
+      213: 3944022086024829231
+    second: BlueContainerAni_27
+  - first:
+      213: 4685034376920765997
+    second: BlueContainerAni_28
+  - first:
+      213: -5071831538791709160
+    second: BlueContainerAni_29
+  - first:
+      213: 1975778194443523340
+    second: BlueContainerAni_30
+  - first:
+      213: -3624797862618443139
+    second: BlueContainerAni_31
+  - first:
+      213: -6842600652896784990
+    second: BlueContainerAni_32
+  - first:
+      213: -600213969968614428
+    second: BlueContainerAni_33
+  - first:
+      213: -1512369959817012188
+    second: BlueContainerAni_34
+  - first:
+      213: -2469495583542237054
+    second: BlueContainerAni_35
+  - first:
+      213: -7150539582034640066
+    second: BlueContainerAni_36
+  - first:
+      213: 1674086489765214075
+    second: BlueContainerAni_37
+  - first:
+      213: -2323125401945853841
+    second: BlueContainerAni_38
+  - first:
+      213: 4002139136064881413
+    second: BlueContainerAni_39
+  - first:
+      213: -4503879246940700900
+    second: BlueContainerAni_40
+  - first:
+      213: -3010948309049068853
+    second: BlueContainerAni_41
+  - first:
+      213: 4963474293157854471
+    second: BlueContainerAni_42
+  - first:
+      213: 6287313919872211907
+    second: BlueContainerAni_43
+  - first:
+      213: 439327680764238678
+    second: BlueContainerAni_44
+  - first:
+      213: 3023231392920631940
+    second: BlueContainerAni_45
+  - first:
+      213: 7252132369945560798
+    second: BlueContainerAni_46
+  - first:
+      213: 6896950520915554051
+    second: BlueContainerAni_47
+  - first:
+      213: -7669432421382338153
+    second: BlueContainerAni_48
+  - first:
+      213: -8523468042889654609
+    second: BlueContainerAni_49
+  - first:
+      213: 7192374957413677296
+    second: BlueContainerAni_50
+  - first:
+      213: -2993128894835564208
+    second: BlueContainerAni_51
+  - first:
+      213: 6899839038878286174
+    second: BlueContainerAni_52
+  - first:
+      213: 4102266183518058377
+    second: BlueContainerAni_53
+  - first:
+      213: 7997947688276719223
+    second: BlueContainerAni_54
+  - first:
+      213: -8437988621673002299
+    second: BlueContainerAni_55
+  - first:
+      213: -2050455126791856047
+    second: BlueContainerAni_56
+  - first:
+      213: 9057585593139325685
+    second: BlueContainerAni_57
+  - first:
+      213: -1775044676844521140
+    second: BlueContainerAni_58
+  - first:
+      213: 131203040317288196
+    second: BlueContainerAni_59
+  - first:
+      213: 4758745140928866004
+    second: BlueContainerAni_60
+  - first:
+      213: 2849323711139907831
+    second: BlueContainerAni_61
+  - first:
+      213: -8032767921025778923
+    second: BlueContainerAni_62
+  - first:
+      213: -1559684558725657277
+    second: BlueContainerAni_63
+  - first:
+      213: 676896627738722539
+    second: BlueContainerAni_64
+  - first:
+      213: -7696361661802031315
+    second: BlueContainerAni_65
+  - first:
+      213: 5672335128106617495
+    second: BlueContainerAni_66
+  - first:
+      213: -1097831395870903788
+    second: BlueContainerAni_67
+  - first:
+      213: -8419860232954680229
+    second: BlueContainerAni_68
+  - first:
+      213: -5818570615941145169
+    second: BlueContainerAni_69
+  - first:
+      213: -4955841556210095012
+    second: BlueContainerAni_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueContainerAni_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3539
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbdc999c737748f0800000000000000
+      internalID: -556349049966634035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_1
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 3539
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14af6e201ce0ccc60800000000000000
+      internalID: 7839657273485359681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_2
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3539
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad28837e9b815dd0800000000000000
+      internalID: -2499062805554516561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_3
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 3539
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d462e028a22421620800000000000000
+      internalID: 2743327873360078413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_4
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 3539
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd087f7292cf47200800000000000000
+      internalID: 177043539068682463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_5
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 3539
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d56c1cf21b0e730800000000000000
+      internalID: 4026412885541805434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_6
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 3539
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4523df18ad3f77a0800000000000000
+      internalID: -6377310755035601590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_7
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 3539
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c633a1a30fd1b2f0800000000000000
+      internalID: -958740038963480891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_8
+      rect:
+        serializedVersion: 2
+        x: 4456
+        y: 3539
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e200f8c3740754a0800000000000000
+      internalID: -6604805433176620313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_9
+      rect:
+        serializedVersion: 2
+        x: 5013
+        y: 3539
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17228c4670e65d40800000000000000
+      internalID: 5572888387611928348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_10
+      rect:
+        serializedVersion: 2
+        x: 5570
+        y: 3539
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ba744e3611e7600800000000000000
+      internalID: 467830532022446848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_11
+      rect:
+        serializedVersion: 2
+        x: 6127
+        y: 3539
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ec7f3b26deb61f0800000000000000
+      internalID: -1050485079878939014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_12
+      rect:
+        serializedVersion: 2
+        x: 6684
+        y: 3539
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900df274684353b20800000000000000
+      internalID: 3113452468721143817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_13
+      rect:
+        serializedVersion: 2
+        x: 7241
+        y: 3539
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047c288bb987f97e0800000000000000
+      internalID: -1756552719440361664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2982
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07094bd9f1db47740800000000000000
+      internalID: 5148948217478811760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_15
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2982
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a2c743fdf9e0cc0800000000000000
+      internalID: -3742878459291227521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_16
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2982
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407e0144ca285fc90800000000000000
+      internalID: -7136654358110738684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_17
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 2982
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b031a822ed3da50800000000000000
+      internalID: 6544818923426220856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_18
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 2982
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72914330187db6ff0800000000000000
+      internalID: -41702822425388761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_19
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 2982
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929f248a344fce8e0800000000000000
+      internalID: -1662685590983608023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_20
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 2982
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717f226f32fe3f240800000000000000
+      internalID: 4824462563576313623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_21
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 2982
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a824cac3004b7d990800000000000000
+      internalID: -7361217152802864502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_22
+      rect:
+        serializedVersion: 2
+        x: 4456
+        y: 2982
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ac3ac602dae7dd0800000000000000
+      internalID: -2486359589488702879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_23
+      rect:
+        serializedVersion: 2
+        x: 5013
+        y: 2982
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284a03e2ff0dc7320800000000000000
+      internalID: 2557148482849776770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_24
+      rect:
+        serializedVersion: 2
+        x: 5570
+        y: 2982
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d98bd112adb38980800000000000000
+      internalID: -8537771964782376489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_25
+      rect:
+        serializedVersion: 2
+        x: 6127
+        y: 2982
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c222a227685f230800000000000000
+      internalID: 3671988896081783854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2425
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555b9578f59554530800000000000000
+      internalID: 3838572524230784341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_27
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2425
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f291ecfd03bfbb630800000000000000
+      internalID: 3944022086024829231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_28
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2425
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d261bd481f5940140800000000000000
+      internalID: 4685034376920765997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_29
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 2425
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81682b1561c3d99b0800000000000000
+      internalID: -5071831538791709160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_30
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 2425
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05d4cabccf5b6b10800000000000000
+      internalID: 1975778194443523340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_31
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 2425
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7258088c8122bdc0800000000000000
+      internalID: -3624797862618443139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_32
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 2425
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad2b38b5f23a01a0800000000000000
+      internalID: -6842600652896784990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_33
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 2425
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e33bca039c9ba7f0800000000000000
+      internalID: -600213969968614428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_34
+      rect:
+        serializedVersion: 2
+        x: 4456
+        y: 2425
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c9220d88bf20be0800000000000000
+      internalID: -1512369959817012188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1868
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288a198c9d69abdd0800000000000000
+      internalID: -2469495583542237054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_36
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1868
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e338474a22e24cc90800000000000000
+      internalID: -7150539582034640066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_37
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1868
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b777cb1facc8b3710800000000000000
+      internalID: 1674086489765214075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_38
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1868
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60b45061c992cfd0800000000000000
+      internalID: -2323125401945853841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_39
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 1868
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50306da07547a8730800000000000000
+      internalID: 4002139136064881413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_40
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 1868
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f78deffa10f71c0800000000000000
+      internalID: -4503879246940700900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_41
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 1868
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc231123776f636d0800000000000000
+      internalID: -3010948309049068853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_42
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 1868
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70df47f629dc1e440800000000000000
+      internalID: 4963474293157854471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_43
+      rect:
+        serializedVersion: 2
+        x: 4456
+        y: 1868
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb1a51d2b6014750800000000000000
+      internalID: 6287313919872211907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1311
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bd2ffa23ec81600800000000000000
+      internalID: 439327680764238678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_45
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1311
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48af7d02feca4f920800000000000000
+      internalID: 3023231392920631940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_46
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1311
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed687be87ffb4a460800000000000000
+      internalID: 7252132369945560798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_47
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1311
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fed9805f3e6bf50800000000000000
+      internalID: 6896950520915554051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_48
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 1311
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79944aed8d3b09590800000000000000
+      internalID: -7669432421382338153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_49
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 1311
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae0b2969fe86b980800000000000000
+      internalID: -8523468042889654609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_50
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 1311
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8be0cbae270d360800000000000000
+      internalID: 7192374957413677296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_51
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 1311
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0516e50e0254676d0800000000000000
+      internalID: -2993128894835564208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_52
+      rect:
+        serializedVersion: 2
+        x: 4456
+        y: 1311
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5186b78c0721cf50800000000000000
+      internalID: 6899839038878286174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987f0b2fb5d2ee830800000000000000
+      internalID: 4102266183518058377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_54
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 754
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776f3eb2c0b6efe60800000000000000
+      internalID: 7997947688276719223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_55
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 754
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca84621e0e36ea80800000000000000
+      internalID: -8437988621673002299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_56
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 754
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15061bb0de15b83e0800000000000000
+      internalID: -2050455126791856047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_57
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 754
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fae3c99b1203bd70800000000000000
+      internalID: 9057585593139325685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_58
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 754
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49fb306546cd57e0800000000000000
+      internalID: -1775044676844521140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_59
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 754
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f2093587022d100800000000000000
+      internalID: 131203040317288196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_60
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 754
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d66ea52e757a0240800000000000000
+      internalID: 4758745140928866004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_61
+      rect:
+        serializedVersion: 2
+        x: 4456
+        y: 754
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f88794a1d4da8720800000000000000
+      internalID: 2849323711139907831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bfa10a220e58090800000000000000
+      internalID: -8032767921025778923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_63
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 197
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dce7b4823ea5ae0800000000000000
+      internalID: -1559684558725657277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_64
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 197
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0c60685e1d46900800000000000000
+      internalID: 676896627738722539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_65
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 197
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27da5d78d7013590800000000000000
+      internalID: -7696361661802031315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_66
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 197
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ac3c5eebe28be40800000000000000
+      internalID: 5672335128106617495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_67
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 197
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412f7d97928b3c0f0800000000000000
+      internalID: -1097831395870903788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_68
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 197
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c6c4c7ab5a62b80800000000000000
+      internalID: -8419860232954680229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_69
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 197
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad5d485ad8404fa0800000000000000
+      internalID: -5818570615941145169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueContainerAni_70
+      rect:
+        serializedVersion: 2
+        x: 4456
+        y: 197
+        width: 557
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c6afe9c50593bb0800000000000000
+      internalID: -4955841556210095012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

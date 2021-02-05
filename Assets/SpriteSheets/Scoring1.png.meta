@@ -1,0 +1,2026 @@
+fileFormatVersion: 2
+guid: c963ee1e7669a40ab87bf7689ceabfda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8348352809981233968
+    second: Scoring1_0
+  - first:
+      213: -1191028643657741842
+    second: Scoring1_1
+  - first:
+      213: 6614643645877271538
+    second: Scoring1_2
+  - first:
+      213: 7850840819373843944
+    second: Scoring1_3
+  - first:
+      213: 4078554969066488784
+    second: Scoring1_4
+  - first:
+      213: -7484147654877251927
+    second: Scoring1_5
+  - first:
+      213: 697543999602449865
+    second: Scoring1_6
+  - first:
+      213: -6249984337916036014
+    second: Scoring1_7
+  - first:
+      213: 3404131438214793415
+    second: Scoring1_8
+  - first:
+      213: 7516252380954616644
+    second: Scoring1_9
+  - first:
+      213: -983267629234463469
+    second: Scoring1_10
+  - first:
+      213: -5543129555420157487
+    second: Scoring1_11
+  - first:
+      213: -5259370174214533893
+    second: Scoring1_12
+  - first:
+      213: 7498931443188778688
+    second: Scoring1_13
+  - first:
+      213: 8368332130289925323
+    second: Scoring1_14
+  - first:
+      213: -8834685926463343921
+    second: Scoring1_15
+  - first:
+      213: -5670566075741416414
+    second: Scoring1_16
+  - first:
+      213: -264722975117448320
+    second: Scoring1_17
+  - first:
+      213: -5003716425405833216
+    second: Scoring1_18
+  - first:
+      213: 6575709928437178636
+    second: Scoring1_19
+  - first:
+      213: -2276322426253069077
+    second: Scoring1_20
+  - first:
+      213: 5858507488704068279
+    second: Scoring1_21
+  - first:
+      213: 4845459488558215988
+    second: Scoring1_22
+  - first:
+      213: 4249627568758013551
+    second: Scoring1_23
+  - first:
+      213: 849970101817545328
+    second: Scoring1_24
+  - first:
+      213: 8350108183330606548
+    second: Scoring1_25
+  - first:
+      213: 5771835602445505202
+    second: Scoring1_26
+  - first:
+      213: 3007084144972739782
+    second: Scoring1_27
+  - first:
+      213: -8940028630731027877
+    second: Scoring1_28
+  - first:
+      213: -1576024607435716425
+    second: Scoring1_29
+  - first:
+      213: 6466588530130952484
+    second: Scoring1_30
+  - first:
+      213: 8004304922268787463
+    second: Scoring1_31
+  - first:
+      213: -8407370656115017262
+    second: Scoring1_32
+  - first:
+      213: -7727457506256581126
+    second: Scoring1_33
+  - first:
+      213: 1463509361405514215
+    second: Scoring1_34
+  - first:
+      213: 5981163905614429756
+    second: Scoring1_35
+  - first:
+      213: 3748734706483533930
+    second: Scoring1_36
+  - first:
+      213: 9030610091892489872
+    second: Scoring1_37
+  - first:
+      213: -2683510507922684783
+    second: Scoring1_38
+  - first:
+      213: 1659151722446063421
+    second: Scoring1_39
+  - first:
+      213: 8028339989029899834
+    second: Scoring1_40
+  - first:
+      213: 2754868436258806686
+    second: Scoring1_41
+  - first:
+      213: -3330039175198504963
+    second: Scoring1_42
+  - first:
+      213: 6239241349551520759
+    second: Scoring1_43
+  - first:
+      213: -3400925766775563376
+    second: Scoring1_44
+  - first:
+      213: 2403968802299482306
+    second: Scoring1_45
+  - first:
+      213: -6859163991380185512
+    second: Scoring1_46
+  - first:
+      213: -4604550998804369228
+    second: Scoring1_47
+  - first:
+      213: 3878161098929743317
+    second: Scoring1_48
+  - first:
+      213: 8919638611636418137
+    second: Scoring1_49
+  - first:
+      213: 6858878361221731631
+    second: Scoring1_50
+  - first:
+      213: -1999315055026314046
+    second: Scoring1_51
+  - first:
+      213: -8167029865923685287
+    second: Scoring1_52
+  - first:
+      213: -2751127448403530734
+    second: Scoring1_53
+  - first:
+      213: -5726497837419910511
+    second: Scoring1_54
+  - first:
+      213: 3324091276600555217
+    second: Scoring1_55
+  - first:
+      213: 6727083409293396166
+    second: Scoring1_56
+  - first:
+      213: -9086897945701382708
+    second: Scoring1_57
+  - first:
+      213: -1017851056661450695
+    second: Scoring1_58
+  - first:
+      213: 7828838554422014276
+    second: Scoring1_59
+  - first:
+      213: -113796742665565370
+    second: Scoring1_60
+  - first:
+      213: 1420090610228388496
+    second: Scoring1_61
+  - first:
+      213: -4103379219007200271
+    second: Scoring1_62
+  - first:
+      213: -4855880867779981489
+    second: Scoring1_63
+  - first:
+      213: 1270260778255444600
+    second: Scoring1_64
+  - first:
+      213: -1425014177951789793
+    second: Scoring1_65
+  - first:
+      213: -946227992936841699
+    second: Scoring1_66
+  - first:
+      213: 8219253297194032349
+    second: Scoring1_67
+  - first:
+      213: 7269268472305410382
+    second: Scoring1_68
+  - first:
+      213: 5541139229995337220
+    second: Scoring1_69
+  - first:
+      213: 1500264709766256395
+    second: Scoring1_70
+  - first:
+      213: 8477392772058443497
+    second: Scoring1_71
+  - first:
+      213: -1261952632453326995
+    second: Scoring1_72
+  - first:
+      213: 5138289846230948897
+    second: Scoring1_73
+  - first:
+      213: -5098064833222918197
+    second: Scoring1_74
+  - first:
+      213: 7241576612526973738
+    second: Scoring1_75
+  - first:
+      213: -1986681379129102755
+    second: Scoring1_76
+  - first:
+      213: 134271934817651783
+    second: Scoring1_77
+  - first:
+      213: 8928735055935388343
+    second: Scoring1_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scoring1_0
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 7649
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bc09236ae4bd370800000000000000
+      internalID: 8348352809981233968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_1
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 7649
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9077942cd987fe0800000000000000
+      internalID: -1191028643657741842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_2
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 7649
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb3f4c995febcb50800000000000000
+      internalID: 6614643645877271538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_3
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 7649
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e52ae2312ac3fc60800000000000000
+      internalID: 7850840819373843944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_4
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 7649
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3cc10a220f99830800000000000000
+      internalID: 4078554969066488784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_5
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 7649
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6f7705c57f22890800000000000000
+      internalID: -7484147654877251927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_6
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 7649
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd5287629c2ea900800000000000000
+      internalID: 697543999602449865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c72c6cb589349a0800000000000000
+      internalID: -6249984337916036014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_8
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c84887d187ed3f20800000000000000
+      internalID: 3404131438214793415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_9
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443ebf8b7b71f4860800000000000000
+      internalID: 7516252380954616644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_10
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dd6500d4bba52f0800000000000000
+      internalID: -983267629234463469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_11
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d96631c909d213b0800000000000000
+      internalID: -5543129555420157487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_12
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc88af11b6f207b0800000000000000
+      internalID: -5259370174214533893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_13
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c64642aa6e811860800000000000000
+      internalID: 7498931443188778688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_14
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc3b643cb9422470800000000000000
+      internalID: 8368332130289925323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2720345f3e46580800000000000000
+      internalID: -8834685926463343921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_16
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2245d04b23a1e41b0800000000000000
+      internalID: -5670566075741416414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_17
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b6d305bd3835cf0800000000000000
+      internalID: -264722975117448320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_18
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000e5e20c6a3f8ab0800000000000000
+      internalID: -5003716425405833216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_19
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01e18e175d914b50800000000000000
+      internalID: 6575709928437178636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_20
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be43ee450d0e860e0800000000000000
+      internalID: -2276322426253069077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_21
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bafb2275899d4150800000000000000
+      internalID: 5858507488704068279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_22
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433fe058bb78e3340800000000000000
+      internalID: 4845459488558215988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e378f12c5b9fa30800000000000000
+      internalID: 4249627568758013551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_24
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0729984ed43bbcb00800000000000000
+      internalID: 849970101817545328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_25
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddc087e62b81e370800000000000000
+      internalID: 8350108183330606548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_26
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b297b166eda91050800000000000000
+      internalID: 5771835602445505202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_27
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c43fcef81f4bb920800000000000000
+      internalID: 3007084144972739782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_28
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a847f9353aee380800000000000000
+      internalID: -8940028630731027877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_29
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8058c38f5d02ae0800000000000000
+      internalID: -1576024607435716425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_30
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4212217b100fdb950800000000000000
+      internalID: 6466588530130952484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703edbd0be0051f60800000000000000
+      internalID: 8004304922268787463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_32
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9b833bee4035b80800000000000000
+      internalID: -8407370656115017262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_33
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd86a2075e82c490800000000000000
+      internalID: -7727457506256581126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_34
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1d80c920e6f4410800000000000000
+      internalID: 1463509361405514215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_35
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e3981f1ec510350800000000000000
+      internalID: 5981163905614429756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_36
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6811299a5e260430800000000000000
+      internalID: 3748734706483533930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_37
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e3f48480c235d70800000000000000
+      internalID: 9030610091892489872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_38
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1948d30396142cad0800000000000000
+      internalID: -2683510507922684783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3700e473bd760710800000000000000
+      internalID: 1659151722446063421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_40
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ec03e1fa46a6f60800000000000000
+      internalID: 8028339989029899834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_41
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b54223f324b3620800000000000000
+      internalID: 2754868436258806686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_42
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df78822730359c1d0800000000000000
+      internalID: -3330039175198504963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_43
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb72f353fc369650800000000000000
+      internalID: 6239241349551520759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_44
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b9ed3b80c7dc0d0800000000000000
+      internalID: -3400925766775563376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_45
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c09e2093ec9c5120800000000000000
+      internalID: 2403968802299482306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_46
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e22a5f0ba5fc0a0800000000000000
+      internalID: -6859163991380185512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0781633495910c0800000000000000
+      internalID: -4604550998804369228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_48
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5227bd8fef1d530800000000000000
+      internalID: 3878161098929743317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_49
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956727b1f0ce8cb70800000000000000
+      internalID: 8919638611636418137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_50
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f251c369781af2f50800000000000000
+      internalID: 6858878361221731631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_51
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4e01fdc810144e0800000000000000
+      internalID: -1999315055026314046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_52
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954dc939b91e8ae80800000000000000
+      internalID: -8167029865923685287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_53
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ca41a692802d9d0800000000000000
+      internalID: -2751127448403530734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_54
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a2b81ae846780b0800000000000000
+      internalID: -5726497837419910511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3848
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d630ce776b812e20800000000000000
+      internalID: 3324091276600555217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_56
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3848
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c84b5918b66b5d50800000000000000
+      internalID: 6727083409293396166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_57
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 3848
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc50e3c767ad4e180800000000000000
+      internalID: -9086897945701382708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3305
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93030755bdddfd1f0800000000000000
+      internalID: -1017851056661450695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_59
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3305
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441f430bf2f95ac60800000000000000
+      internalID: 7828838554422014276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_60
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 3305
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b82d82776bb6ef0800000000000000
+      internalID: -113796742665565370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2762
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092e783d2ec25b310800000000000000
+      internalID: 1420090610228388496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_62
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2762
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f32b58475edd07c0800000000000000
+      internalID: -4103379219007200271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_63
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 2762
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fcb5c04127c9cb0800000000000000
+      internalID: -4855880867779981489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2219
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ae60c927fd0a110800000000000000
+      internalID: 1270260778255444600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_65
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2219
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dc94bb725593ce0800000000000000
+      internalID: -1425014177951789793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_66
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 2219
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ef77c57a25ed2f0800000000000000
+      internalID: -946227992936841699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1676
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc553a8357a01270800000000000000
+      internalID: 8219253297194032349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_68
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1676
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41e5bc4921a1e460800000000000000
+      internalID: 7269268472305410382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_69
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1676
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4068ade75c416ec40800000000000000
+      internalID: 5541139229995337220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1133
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b071ca60ec202d410800000000000000
+      internalID: 1500264709766256395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_71
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1133
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eee100afcfb5a570800000000000000
+      internalID: 8477392772058443497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_72
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1133
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67104354c4ac7ee0800000000000000
+      internalID: -1261952632453326995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c979d246fde4740800000000000000
+      internalID: 5138289846230948897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_74
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 590
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf36dd7b090049b0800000000000000
+      internalID: -5098064833222918197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_75
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 590
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a236273cf8f3f7460800000000000000
+      internalID: 7241576612526973738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e6023cfc3ed64e0800000000000000
+      internalID: -1986681379129102755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_77
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 47
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c4c120d970dd100800000000000000
+      internalID: 134271934817651783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scoring1_78
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 47
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba3b961a3d39eb70800000000000000
+      internalID: 8928735055935388343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

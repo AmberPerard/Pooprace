@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: fd78ad425362148caaec4a38a4c2d194
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8559034776055288765
+    second: OrangeCarAni_0
+  - first:
+      213: 4032235670786748085
+    second: OrangeCarAni_1
+  - first:
+      213: 3205583492150756830
+    second: OrangeCarAni_2
+  - first:
+      213: -8768917645365997233
+    second: OrangeCarAni_3
+  - first:
+      213: 1129141606898455656
+    second: OrangeCarAni_4
+  - first:
+      213: 754276189057444462
+    second: OrangeCarAni_5
+  - first:
+      213: -8313069692015015404
+    second: OrangeCarAni_6
+  - first:
+      213: -807546679836451238
+    second: OrangeCarAni_7
+  - first:
+      213: 2630044401008566909
+    second: OrangeCarAni_8
+  - first:
+      213: 4975601950315102181
+    second: OrangeCarAni_9
+  - first:
+      213: 4736769284123764617
+    second: OrangeCarAni_10
+  - first:
+      213: -954995335591630139
+    second: OrangeCarAni_11
+  - first:
+      213: 3574193799826495189
+    second: OrangeCarAni_12
+  - first:
+      213: 2115357311626645179
+    second: OrangeCarAni_13
+  - first:
+      213: 6736227986160603194
+    second: OrangeCarAni_14
+  - first:
+      213: -6716069996673146652
+    second: OrangeCarAni_15
+  - first:
+      213: 5693650591296169056
+    second: OrangeCarAni_16
+  - first:
+      213: -8927808963936274471
+    second: OrangeCarAni_17
+  - first:
+      213: 8970511925867746465
+    second: OrangeCarAni_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OrangeCarAni_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1675
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db39df6f7ccc7c670800000000000000
+      internalID: 8559034776055288765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1675
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be27e79af065f730800000000000000
+      internalID: 4032235670786748085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_2
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1675
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed58083c3358c7c20800000000000000
+      internalID: 3205583492150756830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_3
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1675
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f411e4b7cdb8e4680800000000000000
+      internalID: -8768917645365997233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864db4c1f448baf00800000000000000
+      internalID: 1129141606898455656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1302
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aed47923ab77a00800000000000000
+      internalID: 754276189057444462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_6
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1302
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a016ed82b02ac80800000000000000
+      internalID: -8313069692015015404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_7
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1302
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e5dc0c2940bc4f0800000000000000
+      internalID: -807546679836451238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72ee99b27bcf7420800000000000000
+      internalID: 2630044401008566909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 929
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efb548ac93ec0540800000000000000
+      internalID: 4975601950315102181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_10
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 929
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987ad2341926cb140800000000000000
+      internalID: 4736769284123764617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_11
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 929
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cae7e35dcc2fb2f0800000000000000
+      internalID: -954995335591630139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6df05f2561a9130800000000000000
+      internalID: 3574193799826495189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 556
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe088c64424b5d10800000000000000
+      internalID: 2115357311626645179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_14
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 556
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30d521d9a3eb7d50800000000000000
+      internalID: 6736227986160603194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_15
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 556
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e063a9dbe9bbc2a0800000000000000
+      internalID: -6716069996673146652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064a669eb09e30f40800000000000000
+      internalID: 5693650591296169056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_17
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 183
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7b7028c0d0a1480800000000000000
+      internalID: -8927808963936274471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeCarAni_18
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 183
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a490ca9119ad7c70800000000000000
+      internalID: 8970511925867746465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2098 @@
+fileFormatVersion: 2
+guid: ad290db1fee574e1f9ea6ffb63fa6dff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3222377843025921861
+    second: SjoelbakAnim_0
+  - first:
+      213: 387934231550542488
+    second: SjoelbakAnim_1
+  - first:
+      213: 5785320381432697186
+    second: SjoelbakAnim_2
+  - first:
+      213: 5671554083059271447
+    second: SjoelbakAnim_3
+  - first:
+      213: -9108962818585694466
+    second: SjoelbakAnim_4
+  - first:
+      213: -3224538029691018091
+    second: SjoelbakAnim_5
+  - first:
+      213: -3928691274785070478
+    second: SjoelbakAnim_6
+  - first:
+      213: -8078759294861312682
+    second: SjoelbakAnim_7
+  - first:
+      213: 1203069155059215097
+    second: SjoelbakAnim_8
+  - first:
+      213: -390199661353718216
+    second: SjoelbakAnim_9
+  - first:
+      213: 458940623714522083
+    second: SjoelbakAnim_10
+  - first:
+      213: -1477741568254133386
+    second: SjoelbakAnim_11
+  - first:
+      213: -3148019111873849314
+    second: SjoelbakAnim_12
+  - first:
+      213: 7993099954816843529
+    second: SjoelbakAnim_13
+  - first:
+      213: -5417619638156321858
+    second: SjoelbakAnim_14
+  - first:
+      213: -2477849735249928231
+    second: SjoelbakAnim_15
+  - first:
+      213: -5282122532062498010
+    second: SjoelbakAnim_16
+  - first:
+      213: -5473628875564468009
+    second: SjoelbakAnim_17
+  - first:
+      213: -3460454392650496191
+    second: SjoelbakAnim_18
+  - first:
+      213: -450716713290699567
+    second: SjoelbakAnim_19
+  - first:
+      213: 6057312324995008653
+    second: SjoelbakAnim_20
+  - first:
+      213: -4441887684649028117
+    second: SjoelbakAnim_21
+  - first:
+      213: 1706605816280882457
+    second: SjoelbakAnim_22
+  - first:
+      213: -2013300734148485569
+    second: SjoelbakAnim_23
+  - first:
+      213: -1772226610235700407
+    second: SjoelbakAnim_24
+  - first:
+      213: -4074784126664543163
+    second: SjoelbakAnim_25
+  - first:
+      213: 3130934544876797136
+    second: SjoelbakAnim_26
+  - first:
+      213: 6017896684666960219
+    second: SjoelbakAnim_27
+  - first:
+      213: 347667326555978983
+    second: SjoelbakAnim_28
+  - first:
+      213: -6516013152941665154
+    second: SjoelbakAnim_29
+  - first:
+      213: 8027936684524502079
+    second: SjoelbakAnim_30
+  - first:
+      213: -7594345273367842589
+    second: SjoelbakAnim_31
+  - first:
+      213: 2211191876608326721
+    second: SjoelbakAnim_32
+  - first:
+      213: 100242941399142481
+    second: SjoelbakAnim_33
+  - first:
+      213: 9089280407698201222
+    second: SjoelbakAnim_34
+  - first:
+      213: -328362453648994226
+    second: SjoelbakAnim_35
+  - first:
+      213: -480422763652430737
+    second: SjoelbakAnim_36
+  - first:
+      213: -2646597563543409187
+    second: SjoelbakAnim_37
+  - first:
+      213: -4565148765120982459
+    second: SjoelbakAnim_38
+  - first:
+      213: -681359085219212658
+    second: SjoelbakAnim_39
+  - first:
+      213: -6504040408836184358
+    second: SjoelbakAnim_40
+  - first:
+      213: 3924517021638363128
+    second: SjoelbakAnim_41
+  - first:
+      213: 1074456976141972181
+    second: SjoelbakAnim_42
+  - first:
+      213: 5480508687677410882
+    second: SjoelbakAnim_43
+  - first:
+      213: 1226396258960726489
+    second: SjoelbakAnim_44
+  - first:
+      213: 3868088846168633209
+    second: SjoelbakAnim_45
+  - first:
+      213: 5629843665880121781
+    second: SjoelbakAnim_46
+  - first:
+      213: -3421204004186615108
+    second: SjoelbakAnim_47
+  - first:
+      213: 1940297397628155885
+    second: SjoelbakAnim_48
+  - first:
+      213: 7240819482208172036
+    second: SjoelbakAnim_49
+  - first:
+      213: 8416190743306720784
+    second: SjoelbakAnim_50
+  - first:
+      213: 7458943859924402085
+    second: SjoelbakAnim_51
+  - first:
+      213: 2027305468689864387
+    second: SjoelbakAnim_52
+  - first:
+      213: -8463007111667237053
+    second: SjoelbakAnim_53
+  - first:
+      213: -5854835576997000332
+    second: SjoelbakAnim_54
+  - first:
+      213: 3572071640966928700
+    second: SjoelbakAnim_55
+  - first:
+      213: -4200165530135883779
+    second: SjoelbakAnim_56
+  - first:
+      213: 2802741035571132203
+    second: SjoelbakAnim_57
+  - first:
+      213: -4688239250072745102
+    second: SjoelbakAnim_58
+  - first:
+      213: 1088603041812736779
+    second: SjoelbakAnim_59
+  - first:
+      213: -8892351460460876690
+    second: SjoelbakAnim_60
+  - first:
+      213: -7924852757901074421
+    second: SjoelbakAnim_61
+  - first:
+      213: -3187082342901558779
+    second: SjoelbakAnim_62
+  - first:
+      213: 409745239918011536
+    second: SjoelbakAnim_63
+  - first:
+      213: -333907953335194666
+    second: SjoelbakAnim_64
+  - first:
+      213: 4797730574510214879
+    second: SjoelbakAnim_65
+  - first:
+      213: -7683602165182068399
+    second: SjoelbakAnim_66
+  - first:
+      213: 7840300367697512010
+    second: SjoelbakAnim_67
+  - first:
+      213: 8617484266926943198
+    second: SjoelbakAnim_68
+  - first:
+      213: -3409894749786352397
+    second: SjoelbakAnim_69
+  - first:
+      213: -1505802129615634323
+    second: SjoelbakAnim_70
+  - first:
+      213: 6587134729016205177
+    second: SjoelbakAnim_71
+  - first:
+      213: -2910397876290827945
+    second: SjoelbakAnim_72
+  - first:
+      213: -5420472047533970653
+    second: SjoelbakAnim_73
+  - first:
+      213: -2776784494925053239
+    second: SjoelbakAnim_74
+  - first:
+      213: 4744883020481715250
+    second: SjoelbakAnim_75
+  - first:
+      213: 4228484915798738272
+    second: SjoelbakAnim_76
+  - first:
+      213: -2467992413041102997
+    second: SjoelbakAnim_77
+  - first:
+      213: 5692829977129514730
+    second: SjoelbakAnim_78
+  - first:
+      213: -4524689938321102277
+    second: SjoelbakAnim_79
+  - first:
+      213: -4258295710100013038
+    second: SjoelbakAnim_80
+  - first:
+      213: 6751510175930312867
+    second: SjoelbakAnim_81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SjoelbakAnim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7649
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54746a9439f28bc20800000000000000
+      internalID: 3222377843025921861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_1
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 7649
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892c8c3d028326500800000000000000
+      internalID: 387934231550542488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_2
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 7649
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2619f172c36994050800000000000000
+      internalID: 5785320381432697186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_3
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 7649
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7170a2da36865be40800000000000000
+      internalID: 5671554083059271447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_4
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 7649
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe65fde396769180800000000000000
+      internalID: -9108962818585694466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_5
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 7649
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594678f0fb32043d0800000000000000
+      internalID: -3224538029691018091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_6
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 7649
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2726246c91c7a79c0800000000000000
+      internalID: -3928691274785070478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_7
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 7649
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df7e3793b72ef80800000000000000
+      internalID: -8078759294861312682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faa88bb50922b010800000000000000
+      internalID: 1203069155059215097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_9
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ea881b97bb59af0800000000000000
+      internalID: -390199661353718216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_10
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e31081d01c7e5600800000000000000
+      internalID: 458940623714522083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_11
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b32628fd10e7be0800000000000000
+      internalID: -1477741568254133386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_12
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e185e92fb4dff44d0800000000000000
+      internalID: -3148019111873849314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_13
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f7c054f023dee60800000000000000
+      internalID: 7993099954816843529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_14
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb138394afb0d4b0800000000000000
+      internalID: -5417619638156321858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_15
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 7106
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfd1a34bc8ec9dd0800000000000000
+      internalID: -2477849735249928231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623f3500b8122b6b0800000000000000
+      internalID: -5282122532062498010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_17
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8b8a7c983c904b0800000000000000
+      internalID: -5473628875564468009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_18
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14780ac601ff9ffc0800000000000000
+      internalID: -3460454392650496191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_19
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dce9f9898bbeb9f0800000000000000
+      internalID: -450716713290699567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_20
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d884ce07775ef0450800000000000000
+      internalID: 6057312324995008653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_21
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5ff485fae3b52c0800000000000000
+      internalID: -4441887684649028117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_22
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d990ba2f41fa710800000000000000
+      internalID: 1706605816280882457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_23
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 6563
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3edb0336a15f04e0800000000000000
+      internalID: -2013300734148485569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b0863a949c767e0800000000000000
+      internalID: -1772226610235700407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_25
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54472c90d657377c0800000000000000
+      internalID: -4074784126664543163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_26
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc71625160537b20800000000000000
+      internalID: 3130934544876797136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_27
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b593398862dd38350800000000000000
+      internalID: 6017896684666960219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_28
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecf06b679923d400800000000000000
+      internalID: 347667326555978983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_29
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74932b8f887295a0800000000000000
+      internalID: -6516013152941665154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_30
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cf86871e5f86f60800000000000000
+      internalID: 8027936684524502079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_31
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 6020
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e03e3fd5377b9690800000000000000
+      internalID: -7594345273367842589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cf77fdb4bbfae10800000000000000
+      internalID: 2211191876608326721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_33
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15016519c62246100800000000000000
+      internalID: 100242941399142481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_34
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ad4ccaf5c932e70800000000000000
+      internalID: 9089280407698201222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_35
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e401da0961c617bf0800000000000000
+      internalID: -328362453648994226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_36
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f644c76ba023559f0800000000000000
+      internalID: -480422763652430737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_37
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddda499c985654bd0800000000000000
+      internalID: -2646597563543409187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_38
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5429624a26555a0c0800000000000000
+      internalID: -4565148765120982459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_39
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 5477
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e821601a5835b86f0800000000000000
+      internalID: -681359085219212658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6688245b10db5a0800000000000000
+      internalID: -6504040408836184358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_41
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f78abd207fa67630800000000000000
+      internalID: 3924517021638363128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_42
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2f1655dec39ee00800000000000000
+      internalID: 1074456976141972181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_43
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e447d4d9dae0c40800000000000000
+      internalID: 5480508687677410882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_44
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9d83956e8050110800000000000000
+      internalID: 1226396258960726489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_45
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f2883cf463ea530800000000000000
+      internalID: 3868088846168633209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_46
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b184c56cf8312e40800000000000000
+      internalID: 5629843665880121781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_47
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 4934
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb21052a5117580d0800000000000000
+      internalID: -3421204004186615108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7bd38f3325dea10800000000000000
+      internalID: 1940297397628155885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_49
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408febf94fe8c7460800000000000000
+      internalID: 7240819482208172036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_50
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0165ab0e3e05cc470800000000000000
+      internalID: 8416190743306720784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_51
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afff52ebed738760800000000000000
+      internalID: 7458943859924402085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_52
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c65778259f622c10800000000000000
+      internalID: 2027305468689864387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_53
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f3871fedb5d8a80800000000000000
+      internalID: -8463007111667237053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_54
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b46ce10127fbea0800000000000000
+      internalID: -5854835576997000332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_55
+      rect:
+        serializedVersion: 2
+        x: 6734
+        y: 4391
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3994185b3c829130800000000000000
+      internalID: 3572071640966928700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3848
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff096a24b306b5c0800000000000000
+      internalID: -4200165530135883779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_57
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3848
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27b0ae4f1655e620800000000000000
+      internalID: 2802741035571132203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_58
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 3848
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bce5dcd3700feb0800000000000000
+      internalID: -4688239250072745102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_59
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 3848
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b68a8e2be7b1f00800000000000000
+      internalID: 1088603041812736779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3305
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cad4dd575089480800000000000000
+      internalID: -8892351460460876690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_61
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3305
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0028048764450290800000000000000
+      internalID: -7924852757901074421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_62
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 3305
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502de69be7535c3d0800000000000000
+      internalID: -3187082342901558779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_63
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 3305
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09468b1ff15bfa500800000000000000
+      internalID: 409745239918011536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2762
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db27cd4c78bd5bf0800000000000000
+      internalID: -333907953335194666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_65
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2762
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde46bdb986f49240800000000000000
+      internalID: 4797730574510214879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_66
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 2762
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15986ec4a8c5e5590800000000000000
+      internalID: -7683602165182068399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2219
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4689fc05a75ecc60800000000000000
+      internalID: 7840300367697512010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_68
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2219
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edba2bb8844779770800000000000000
+      internalID: 8617484266926943198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_69
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 2219
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4d38d9ace9da0d0800000000000000
+      internalID: -3409894749786352397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1676
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60cb32f0f05a1be0800000000000000
+      internalID: -1505802129615634323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_71
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1676
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f56aac2243a6b50800000000000000
+      internalID: 6587134729016205177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_72
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1676
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75942ac2d803c97d0800000000000000
+      internalID: -2910397876290827945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1133
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32badc3446d96c4b0800000000000000
+      internalID: -5420472047533970653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_74
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1133
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c20e22c631e679d0800000000000000
+      internalID: -2776784494925053239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_75
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1133
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c5898b7f539d140800000000000000
+      internalID: 4744883020481715250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0650840a0a89eaa30800000000000000
+      internalID: 4228484915798738272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_77
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 590
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f6350f9fdefbdd0800000000000000
+      internalID: -2467992413041102997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_78
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 590
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6ff79c3bef00f40800000000000000
+      internalID: 5692829977129514730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a269359721531c0800000000000000
+      internalID: -4524689938321102277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_80
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 47
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2104be2fc9e77e4c0800000000000000
+      internalID: -4258295710100013038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SjoelbakAnim_81
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 47
+        width: 962
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8e2c5ebbe22bd50800000000000000
+      internalID: 6751510175930312867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
