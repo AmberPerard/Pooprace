@@ -1,0 +1,2032 @@
+fileFormatVersion: 2
+guid: d1eacc7f23f7e4759bdfd82a9a37c2ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2726741543343677866
+    second: 9cowtainer_orange_00000
+  - first:
+      213: -8644285741235472413
+    second: 9cowtainer_orange_00001
+  - first:
+      213: -1884359629182365386
+    second: 9cowtainer_orange_00002
+  - first:
+      213: 5562282590132863626
+    second: 9cowtainer_orange_00003
+  - first:
+      213: -2849629945331290964
+    second: 9cowtainer_orange_00004
+  - first:
+      213: 1572158359867469149
+    second: 9cowtainer_orange_00005
+  - first:
+      213: 2678288207745425694
+    second: 9cowtainer_orange_00006
+  - first:
+      213: -8467301389013904531
+    second: 9cowtainer_orange_00007
+  - first:
+      213: -1798566827175061467
+    second: 9cowtainer_orange_00008
+  - first:
+      213: -3622143537658717142
+    second: 9cowtainer_orange_00009
+  - first:
+      213: -6375913994236623049
+    second: 9cowtainer_orange_00010
+  - first:
+      213: 4238270566458998407
+    second: 9cowtainer_orange_00011
+  - first:
+      213: 7663401052194192249
+    second: 9cowtainer_orange_00012
+  - first:
+      213: 37639786426896986
+    second: 9cowtainer_orange_00013
+  - first:
+      213: 7393087238180873496
+    second: 9cowtainer_orange_00014
+  - first:
+      213: -4902960787772427134
+    second: 9cowtainer_orange_00015
+  - first:
+      213: 1521678025428567020
+    second: 9cowtainer_orange_00016
+  - first:
+      213: 8000660729091913316
+    second: 9cowtainer_orange_00017
+  - first:
+      213: -6321402506142009423
+    second: 9cowtainer_orange_00018
+  - first:
+      213: 4336999519819272651
+    second: 9cowtainer_orange_00019
+  - first:
+      213: 3166751160268154168
+    second: 9cowtainer_orange_00020
+  - first:
+      213: 105328661799541670
+    second: 9cowtainer_orange_00021
+  - first:
+      213: 3960892359022596047
+    second: 9cowtainer_orange_00022
+  - first:
+      213: -7552929121726552033
+    second: 9cowtainer_orange_00023
+  - first:
+      213: 4120166424384776671
+    second: 9cowtainer_orange_00024
+  - first:
+      213: 6984017427741941678
+    second: 9cowtainer_orange_00025
+  - first:
+      213: 8832528223051136783
+    second: 9cowtainer_orange_00026
+  - first:
+      213: 4583434250341596182
+    second: 9cowtainer_orange_00027
+  - first:
+      213: -6569228149026742627
+    second: 9cowtainer_orange_00028
+  - first:
+      213: -6129822192277346248
+    second: 9cowtainer_orange_00029
+  - first:
+      213: 6926471797083027441
+    second: 9cowtainer_orange_00030
+  - first:
+      213: 5698579388967966996
+    second: 9cowtainer_orange_00031
+  - first:
+      213: -3803373497567011484
+    second: 9cowtainer_orange_00032
+  - first:
+      213: 5915347372158129422
+    second: 9cowtainer_orange_00033
+  - first:
+      213: 2228404905384053067
+    second: 9cowtainer_orange_00034
+  - first:
+      213: 8693987659805866550
+    second: 9cowtainer_orange_00035
+  - first:
+      213: -8128409129820804501
+    second: 9cowtainer_orange_00036
+  - first:
+      213: -8867594797002913085
+    second: 9cowtainer_orange_00037
+  - first:
+      213: -7324123262663373303
+    second: 9cowtainer_orange_00038
+  - first:
+      213: -12525827784620439
+    second: 9cowtainer_orange_00039
+  - first:
+      213: 5484465091239310230
+    second: 9cowtainer_orange_00040
+  - first:
+      213: -5424370029242761444
+    second: 9cowtainer_orange_00041
+  - first:
+      213: 7438127785983338017
+    second: 9cowtainer_orange_00042
+  - first:
+      213: -7479248173658613073
+    second: 9cowtainer_orange_00043
+  - first:
+      213: -920986620447754820
+    second: 9cowtainer_orange_00044
+  - first:
+      213: -1992648957580676773
+    second: 9cowtainer_orange_00045
+  - first:
+      213: -9168627282809787993
+    second: 9cowtainer_orange_00046
+  - first:
+      213: -4796049740915207742
+    second: 9cowtainer_orange_00047
+  - first:
+      213: 1444757654265470686
+    second: 9cowtainer_orange_00048
+  - first:
+      213: -3139709612927398199
+    second: 9cowtainer_orange_00049
+  - first:
+      213: -1137881703917002804
+    second: 9cowtainer_orange_00050
+  - first:
+      213: 2050389676757305328
+    second: 9cowtainer_orange_00051
+  - first:
+      213: -4020641079688785895
+    second: 9cowtainer_orange_00052
+  - first:
+      213: 4774266332350197893
+    second: 9cowtainer_orange_00053
+  - first:
+      213: 5947163951176701486
+    second: 9cowtainer_orange_00054
+  - first:
+      213: -3868159523310086705
+    second: 9cowtainer_orange_00055
+  - first:
+      213: -6918939949437693997
+    second: 9cowtainer_orange_00056
+  - first:
+      213: -8393802832650374979
+    second: 9cowtainer_orange_00057
+  - first:
+      213: -1172798492872191894
+    second: 9cowtainer_orange_00058
+  - first:
+      213: -4986944902931576779
+    second: 9cowtainer_orange_00059
+  - first:
+      213: -2452249461202464166
+    second: 9cowtainer_orange_00060
+  - first:
+      213: 7743875024503710842
+    second: 9cowtainer_orange_00061
+  - first:
+      213: -8338485074151601867
+    second: 9cowtainer_orange_00062
+  - first:
+      213: 5728339130026388925
+    second: 9cowtainer_orange_00063
+  - first:
+      213: -5477784819269363381
+    second: 9cowtainer_orange_00064
+  - first:
+      213: 4359473547761577262
+    second: 9cowtainer_orange_00065
+  - first:
+      213: -7270502399176553577
+    second: 9cowtainer_orange_00066
+  - first:
+      213: 3768481015068765945
+    second: 9cowtainer_orange_00067
+  - first:
+      213: 804871674748168542
+    second: 9cowtainer_orange_00068
+  - first:
+      213: 3541234988138997751
+    second: 9cowtainer_orange_00069
+  - first:
+      213: -5917821736147360421
+    second: 9cowtainer_orange_00070
+  - first:
+      213: 4342892810682554484
+    second: containerOrange_0
+  - first:
+      213: -6920258977000546301
+    second: containerOrange_1
+  - first:
+      213: -2946414970912625766
+    second: containerOrange_2
+  - first:
+      213: -6183233086896858012
+    second: containerOrange_3
+  - first:
+      213: 2319930484550865440
+    second: containerOrange_4
+  - first:
+      213: -1266777896986675911
+    second: containerOrange_5
+  - first:
+      213: 7103882535824906718
+    second: containerOrange_6
+  - first:
+      213: 3612471453556283794
+    second: containerOrange_7
+  - first:
+      213: -3038063356004799782
+    second: containerOrange_8
+  - first:
+      213: -1783685018357975635
+    second: containerOrange_9
+  - first:
+      213: 7059937800962169076
+    second: containerOrange_10
+  - first:
+      213: 4181076440331121050
+    second: containerOrange_11
+  - first:
+      213: -3984683531164378110
+    second: containerOrange_12
+  - first:
+      213: 3837094137411302701
+    second: containerOrange_13
+  - first:
+      213: -3428377467929308122
+    second: containerOrange_14
+  - first:
+      213: -6963229093691197192
+    second: containerOrange_15
+  - first:
+      213: 5790567720010561591
+    second: containerOrange_16
+  - first:
+      213: -670157320688506083
+    second: containerOrange_17
+  - first:
+      213: -489886535352948546
+    second: containerOrange_18
+  - first:
+      213: 3322498628611178649
+    second: containerOrange_19
+  - first:
+      213: -411192758122189835
+    second: containerOrange_20
+  - first:
+      213: -5160727343987191849
+    second: containerOrange_21
+  - first:
+      213: -3167504294916828151
+    second: containerOrange_22
+  - first:
+      213: -889744993159039131
+    second: containerOrange_23
+  - first:
+      213: 7831226025830222401
+    second: containerOrange_24
+  - first:
+      213: 562205081076707934
+    second: containerOrange_25
+  - first:
+      213: 4154708002286674670
+    second: containerOrange_26
+  - first:
+      213: 7032070603641138592
+    second: containerOrange_27
+  - first:
+      213: -2096564193575074515
+    second: containerOrange_28
+  - first:
+      213: 6965899346845163413
+    second: containerOrange_29
+  - first:
+      213: 9081004549124525582
+    second: containerOrange_30
+  - first:
+      213: -1097411008527014194
+    second: containerOrange_31
+  - first:
+      213: -8751397708387982890
+    second: containerOrange_32
+  - first:
+      213: -7232479686724155134
+    second: containerOrange_33
+  - first:
+      213: -2036219657742019057
+    second: containerOrange_34
+  - first:
+      213: -1611255404259195005
+    second: containerOrange_35
+  - first:
+      213: -6510312741363601506
+    second: containerOrange_36
+  - first:
+      213: -4130848100300598979
+    second: containerOrange_37
+  - first:
+      213: -1775716165368465217
+    second: containerOrange_38
+  - first:
+      213: 3561368720950267847
+    second: containerOrange_39
+  - first:
+      213: 5407662856896417731
+    second: containerOrange_40
+  - first:
+      213: 907020271128707231
+    second: containerOrange_41
+  - first:
+      213: 8134154039861268636
+    second: containerOrange_42
+  - first:
+      213: 5239418920505189472
+    second: containerOrange_43
+  - first:
+      213: -6569851192176122449
+    second: containerOrange_44
+  - first:
+      213: 7796075143673525008
+    second: containerOrange_45
+  - first:
+      213: -2736143659399024396
+    second: containerOrange_46
+  - first:
+      213: 7330154872819895794
+    second: containerOrange_47
+  - first:
+      213: 1653413736887712276
+    second: containerOrange_48
+  - first:
+      213: -5424977263416934681
+    second: containerOrange_49
+  - first:
+      213: 7669520874935275280
+    second: containerOrange_50
+  - first:
+      213: -5090869854041670468
+    second: containerOrange_51
+  - first:
+      213: 4011996286839442990
+    second: containerOrange_52
+  - first:
+      213: -8374055745162897077
+    second: containerOrange_53
+  - first:
+      213: -5549888789450825289
+    second: containerOrange_54
+  - first:
+      213: -7999346788188038158
+    second: containerOrange_55
+  - first:
+      213: -119723288348509477
+    second: containerOrange_56
+  - first:
+      213: -2620601160219038404
+    second: containerOrange_57
+  - first:
+      213: -6818478789489265148
+    second: containerOrange_58
+  - first:
+      213: -7988283810652264500
+    second: containerOrange_59
+  - first:
+      213: -2706242032398924029
+    second: containerOrange_60
+  - first:
+      213: 2550320301875030822
+    second: containerOrange_61
+  - first:
+      213: -7945175777551911277
+    second: containerOrange_62
+  - first:
+      213: -3907348056059183625
+    second: containerOrange_63
+  - first:
+      213: 3863474060102946112
+    second: containerOrange_64
+  - first:
+      213: 3279752182482793047
+    second: containerOrange_65
+  - first:
+      213: -1211717916106004587
+    second: containerOrange_66
+  - first:
+      213: -7299657745878830320
+    second: containerOrange_67
+  - first:
+      213: -1044537130075539850
+    second: containerOrange_68
+  - first:
+      213: -966553816145233910
+    second: containerOrange_69
+  - first:
+      213: -9003975347085197164
+    second: containerOrange_70
+  - first:
+      213: 4140141281947015665
+    second: containerOrange_71
+  - first:
+      213: -354130326239761316
+    second: containerOrange_72
+  - first:
+      213: -2333378585975119573
+    second: containerOrange_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e13b2630ba82ad0800000000000000
+      internalID: -2726741543343677866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00001
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e77fa0fae3590880800000000000000
+      internalID: -8644285741235472413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00002
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6319f79a6e869d5e0800000000000000
+      internalID: -1884359629182365386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00003
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a828535ab82313d40800000000000000
+      internalID: 5562282590132863626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00004
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac6637a9a41478d0800000000000000
+      internalID: -2849629945331290964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00005
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5daf8ad2bd61d510800000000000000
+      internalID: 1572158359867469149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00006
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11a8cc4fe03b2520800000000000000
+      internalID: 2678288207745425694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00007
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6397a59f3a1e7a80800000000000000
+      internalID: -8467301389013904531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00008
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528dd69fff43a07e0800000000000000
+      internalID: -1798566827175061467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00009
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c1068b4af8bbdc0800000000000000
+      internalID: -3622143537658717142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00010
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7378517d0043487a0800000000000000
+      internalID: -6375913994236623049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00011
+      rect:
+        serializedVersion: 2
+        x: 6105
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e38c7ff9c51da30800000000000000
+      internalID: 4238270566458998407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00012
+      rect:
+        serializedVersion: 2
+        x: 6660
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bb36f87aed95a60800000000000000
+      internalID: 7663401052194192249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00013
+      rect:
+        serializedVersion: 2
+        x: 7215
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a529563bf29b58000800000000000000
+      internalID: 37639786426896986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00014
+      rect:
+        serializedVersion: 2
+        x: 7770
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815ae314ca5899660800000000000000
+      internalID: 7393087238180873496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00015
+      rect:
+        serializedVersion: 2
+        x: 8325
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284b729f32f25fbb0800000000000000
+      internalID: -4902960787772427134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00016
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce300381a161e1510800000000000000
+      internalID: 1521678025428567020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00017
+      rect:
+        serializedVersion: 2
+        x: 9435
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466f0f53b8e080f60800000000000000
+      internalID: 8000660729091913316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00018
+      rect:
+        serializedVersion: 2
+        x: 9990
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b73423b9edd548a0800000000000000
+      internalID: -6321402506142009423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00019
+      rect:
+        serializedVersion: 2
+        x: 10545
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc11ed9b51e103c30800000000000000
+      internalID: 4336999519819272651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00020
+      rect:
+        serializedVersion: 2
+        x: 11100
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835e6dfe66f82fb20800000000000000
+      internalID: 3166751160268154168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00021
+      rect:
+        serializedVersion: 2
+        x: 11655
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab9a3f1cd3367100800000000000000
+      internalID: 105328661799541670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00022
+      rect:
+        serializedVersion: 2
+        x: 12210
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfc9156d9ae7f630800000000000000
+      internalID: 3960892359022596047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00023
+      rect:
+        serializedVersion: 2
+        x: 12765
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1829cd1bfa9e2790800000000000000
+      internalID: -7552929121726552033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00024
+      rect:
+        serializedVersion: 2
+        x: 13320
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd922fc8885cd2930800000000000000
+      internalID: 4120166424384776671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00025
+      rect:
+        serializedVersion: 2
+        x: 13875
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf12bdf8d63ce060800000000000000
+      internalID: 6984017427741941678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00026
+      rect:
+        serializedVersion: 2
+        x: 14430
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f33934f91739a70800000000000000
+      internalID: 8832528223051136783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00027
+      rect:
+        serializedVersion: 2
+        x: 14985
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c38f6aa21ab9f30800000000000000
+      internalID: 4583434250341596182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00028
+      rect:
+        serializedVersion: 2
+        x: 15540
+        y: 1493
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e93c0cdc965d4a0800000000000000
+      internalID: -6569228149026742627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00029
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838a00d713f7eeaa0800000000000000
+      internalID: -6129822192277346248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00030
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f735e3c665cf1060800000000000000
+      internalID: 6926471797083027441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00031
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4195ccb03cb651f40800000000000000
+      internalID: 5698579388967966996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00032
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d126184f3b73bc0800000000000000
+      internalID: -3803373497567011484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00033
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0596881819871250800000000000000
+      internalID: 5915347372158129422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00034
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4987217472ecee10800000000000000
+      internalID: 2228404905384053067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00035
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63abb50c6bf37a870800000000000000
+      internalID: 8693987659805866550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00036
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a2dfb66f6123f80800000000000000
+      internalID: -8128409129820804501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00037
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca0a80c389ffe480800000000000000
+      internalID: -8867594797002913085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00038
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e46cd82bc7b5a90800000000000000
+      internalID: -7324123262663373303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00039
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966416473df73dff0800000000000000
+      internalID: -12525827784620439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00040
+      rect:
+        serializedVersion: 2
+        x: 6105
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693795a41fbbc1c40800000000000000
+      internalID: 5484465091239310230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00041
+      rect:
+        serializedVersion: 2
+        x: 6660
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fb5bca234c8b4b0800000000000000
+      internalID: -5424370029242761444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00042
+      rect:
+        serializedVersion: 2
+        x: 7215
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126ef7dffc9893760800000000000000
+      internalID: 7438127785983338017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00043
+      rect:
+        serializedVersion: 2
+        x: 7770
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faad61ea96f543890800000000000000
+      internalID: -7479248173658613073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00044
+      rect:
+        serializedVersion: 2
+        x: 8325
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5f25d5c8ff733f0800000000000000
+      internalID: -920986620447754820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00045
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51f951a450b854e0800000000000000
+      internalID: -1992648957580676773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00046
+      rect:
+        serializedVersion: 2
+        x: 9435
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9ea22501e72c080800000000000000
+      internalID: -9168627282809787993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00047
+      rect:
+        serializedVersion: 2
+        x: 9990
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c115a3db22017db0800000000000000
+      internalID: -4796049740915207742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00048
+      rect:
+        serializedVersion: 2
+        x: 10545
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede15019e6fcc0410800000000000000
+      internalID: 1444757654265470686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00049
+      rect:
+        serializedVersion: 2
+        x: 11100
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce459fedb28d64d0800000000000000
+      internalID: -3139709612927398199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00050
+      rect:
+        serializedVersion: 2
+        x: 11655
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf5c997e9e6530f0800000000000000
+      internalID: -1137881703917002804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00051
+      rect:
+        serializedVersion: 2
+        x: 12210
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f74f3e2c82747c10800000000000000
+      internalID: 2050389676757305328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00052
+      rect:
+        serializedVersion: 2
+        x: 12765
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9109ec38d30d338c0800000000000000
+      internalID: -4020641079688785895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00053
+      rect:
+        serializedVersion: 2
+        x: 13320
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58037d22fe9914240800000000000000
+      internalID: 4774266332350197893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00054
+      rect:
+        serializedVersion: 2
+        x: 13875
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2655eaaa12988250800000000000000
+      internalID: 5947163951176701486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00055
+      rect:
+        serializedVersion: 2
+        x: 14430
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5de8e6869815ac0800000000000000
+      internalID: -3868159523310086705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00056
+      rect:
+        serializedVersion: 2
+        x: 14985
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfc18b26ccfaff90800000000000000
+      internalID: -6918939949437693997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00057
+      rect:
+        serializedVersion: 2
+        x: 15540
+        y: 938
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0f435cbc8338b80800000000000000
+      internalID: -8393802832650374979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00058
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a605d370cf169bfe0800000000000000
+      internalID: -1172798492872191894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00059
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53881526800dacab0800000000000000
+      internalID: -4986944902931576779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00060
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52526c8b1cd7fdd0800000000000000
+      internalID: -2452249461202464166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00061
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7420945e45c77b60800000000000000
+      internalID: 7743875024503710842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00062
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5390c461100c74c80800000000000000
+      internalID: -8338485074151601867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00063
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd6136b6162f7f40800000000000000
+      internalID: 5728339130026388925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00064
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b491c6bbabffaf3b0800000000000000
+      internalID: -5477784819269363381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00065
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d6a0e1816ff7c30800000000000000
+      internalID: 4359473547761577262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00066
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bc476b69cf91b90800000000000000
+      internalID: -7270502399176553577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00067
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe2af554855c4430800000000000000
+      internalID: 3768481015068765945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00068
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e596327168a7b2b00800000000000000
+      internalID: 804871674748168542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00069
+      rect:
+        serializedVersion: 2
+        x: 6105
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7a53e957ef42130800000000000000
+      internalID: 3541234988138997751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9cowtainer_orange_00070
+      rect:
+        serializedVersion: 2
+        x: 6660
+        y: 383
+        width: 555
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55e9d42c7cafdda0800000000000000
+      internalID: -5917821736147360421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ccc2632030ac84a9bbbe92cc1352a229
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

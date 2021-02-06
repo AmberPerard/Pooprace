@@ -1,0 +1,2266 @@
+fileFormatVersion: 2
+guid: 6074dd5849b5d42f0a44fc0074313ad6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4596908546940105218
+    second: 2sjoelbak_uitleg_00000
+  - first:
+      213: -7155767701772786460
+    second: 2sjoelbak_uitleg_00001
+  - first:
+      213: -7963276185680641040
+    second: 2sjoelbak_uitleg_00002
+  - first:
+      213: 1647765954955135806
+    second: 2sjoelbak_uitleg_00003
+  - first:
+      213: 4378733528959708128
+    second: 2sjoelbak_uitleg_00004
+  - first:
+      213: 4020718823196677744
+    second: 2sjoelbak_uitleg_00005
+  - first:
+      213: -3741256081492001369
+    second: 2sjoelbak_uitleg_00006
+  - first:
+      213: -4403247946132509602
+    second: 2sjoelbak_uitleg_00007
+  - first:
+      213: -8941192935358363557
+    second: 2sjoelbak_uitleg_00008
+  - first:
+      213: -6149197548215360187
+    second: 2sjoelbak_uitleg_00009
+  - first:
+      213: -7304634374184070492
+    second: 2sjoelbak_uitleg_00010
+  - first:
+      213: 6883131390634130729
+    second: 2sjoelbak_uitleg_00011
+  - first:
+      213: -7252037155408644656
+    second: 2sjoelbak_uitleg_00012
+  - first:
+      213: -2849857131565106355
+    second: 2sjoelbak_uitleg_00013
+  - first:
+      213: 6578916395005794647
+    second: 2sjoelbak_uitleg_00014
+  - first:
+      213: -1116245436921735360
+    second: 2sjoelbak_uitleg_00015
+  - first:
+      213: 4554871545781403433
+    second: 2sjoelbak_uitleg_00016
+  - first:
+      213: -4637782297127931182
+    second: 2sjoelbak_uitleg_00017
+  - first:
+      213: 1698197003459559030
+    second: 2sjoelbak_uitleg_00018
+  - first:
+      213: 3042590197357052979
+    second: 2sjoelbak_uitleg_00019
+  - first:
+      213: 1240615186964196628
+    second: 2sjoelbak_uitleg_00020
+  - first:
+      213: 504689184848398433
+    second: 2sjoelbak_uitleg_00021
+  - first:
+      213: -259569140600894784
+    second: 2sjoelbak_uitleg_00022
+  - first:
+      213: 3308795979025205385
+    second: 2sjoelbak_uitleg_00023
+  - first:
+      213: -7921453770629377381
+    second: 2sjoelbak_uitleg_00024
+  - first:
+      213: -3064262587627366873
+    second: 2sjoelbak_uitleg_00025
+  - first:
+      213: 4754704154269867316
+    second: 2sjoelbak_uitleg_00026
+  - first:
+      213: -2946843928452320068
+    second: 2sjoelbak_uitleg_00027
+  - first:
+      213: 6989654673981118959
+    second: 2sjoelbak_uitleg_00028
+  - first:
+      213: -4846958584814199480
+    second: 2sjoelbak_uitleg_00029
+  - first:
+      213: -4359194059015754650
+    second: 2sjoelbak_uitleg_00030
+  - first:
+      213: -153863369441988583
+    second: 2sjoelbak_uitleg_00031
+  - first:
+      213: 2681565987808296435
+    second: 2sjoelbak_uitleg_00032
+  - first:
+      213: -8513374072344825068
+    second: 2sjoelbak_uitleg_00033
+  - first:
+      213: 4531231848195964292
+    second: 2sjoelbak_uitleg_00034
+  - first:
+      213: 4507336718908407799
+    second: 2sjoelbak_uitleg_00035
+  - first:
+      213: -7038102130242010155
+    second: 2sjoelbak_uitleg_00036
+  - first:
+      213: 6216237861027292640
+    second: 2sjoelbak_uitleg_00037
+  - first:
+      213: -7395564882355340160
+    second: 2sjoelbak_uitleg_00038
+  - first:
+      213: -9128521627615621187
+    second: 2sjoelbak_uitleg_00039
+  - first:
+      213: 1657829865571121020
+    second: 2sjoelbak_uitleg_00040
+  - first:
+      213: -8938829449313763633
+    second: 2sjoelbak_uitleg_00041
+  - first:
+      213: 6756192603984519725
+    second: 2sjoelbak_uitleg_00042
+  - first:
+      213: -4851332141780166944
+    second: 2sjoelbak_uitleg_00043
+  - first:
+      213: -5918969984450195120
+    second: 2sjoelbak_uitleg_00044
+  - first:
+      213: -6468747794921209199
+    second: 2sjoelbak_uitleg_00045
+  - first:
+      213: 826976191253407298
+    second: 2sjoelbak_uitleg_00046
+  - first:
+      213: -4717329682637911451
+    second: 2sjoelbak_uitleg_00047
+  - first:
+      213: 5514956649870452994
+    second: 2sjoelbak_uitleg_00048
+  - first:
+      213: 2654568061106528970
+    second: 2sjoelbak_uitleg_00049
+  - first:
+      213: 7680647646168867270
+    second: 2sjoelbak_uitleg_00050
+  - first:
+      213: 4330831464096537234
+    second: 2sjoelbak_uitleg_00051
+  - first:
+      213: 7732941519250424763
+    second: 2sjoelbak_uitleg_00052
+  - first:
+      213: -143514110896182703
+    second: 2sjoelbak_uitleg_00053
+  - first:
+      213: -574548146474098843
+    second: 2sjoelbak_uitleg_00054
+  - first:
+      213: -417560366318752010
+    second: 2sjoelbak_uitleg_00055
+  - first:
+      213: -1285550185018393829
+    second: 2sjoelbak_uitleg_00056
+  - first:
+      213: -5595345467557892467
+    second: 2sjoelbak_uitleg_00057
+  - first:
+      213: -626249388386094112
+    second: 2sjoelbak_uitleg_00058
+  - first:
+      213: -4585568123376440348
+    second: 2sjoelbak_uitleg_00059
+  - first:
+      213: -3914303079843434435
+    second: 2sjoelbak_uitleg_00060
+  - first:
+      213: 1425797625756846527
+    second: 2sjoelbak_uitleg_00061
+  - first:
+      213: 5797411259875386754
+    second: 2sjoelbak_uitleg_00062
+  - first:
+      213: 7125247673885460315
+    second: 2sjoelbak_uitleg_00063
+  - first:
+      213: 4967459599761693803
+    second: 2sjoelbak_uitleg_00064
+  - first:
+      213: 1558696384490533588
+    second: 2sjoelbak_uitleg_00065
+  - first:
+      213: 6226549969682855416
+    second: 2sjoelbak_uitleg_00066
+  - first:
+      213: 8287842242956983436
+    second: 2sjoelbak_uitleg_00067
+  - first:
+      213: -1440440185906186579
+    second: 2sjoelbak_uitleg_00068
+  - first:
+      213: -778631104320515156
+    second: 2sjoelbak_uitleg_00069
+  - first:
+      213: -5751566889623672857
+    second: 2sjoelbak_uitleg_00070
+  - first:
+      213: 5922594494112712299
+    second: 2sjoelbak_uitleg_00071
+  - first:
+      213: 2620554605440934127
+    second: 2sjoelbak_uitleg_00072
+  - first:
+      213: -5480536677277624118
+    second: 2sjoelbak_uitleg_00073
+  - first:
+      213: 3381903314214722814
+    second: 2sjoelbak_uitleg_00074
+  - first:
+      213: 6283183556621462775
+    second: 2sjoelbak_uitleg_00075
+  - first:
+      213: 7393199061303599839
+    second: 2sjoelbak_uitleg_00076
+  - first:
+      213: 5311091732742328036
+    second: 2sjoelbak_uitleg_00077
+  - first:
+      213: 88216103534297521
+    second: 2sjoelbak_uitleg_00078
+  - first:
+      213: 6055197713571210632
+    second: 2sjoelbak_uitleg_00079
+  - first:
+      213: 3724707613526868028
+    second: 2sjoelbak_uitleg_00080
+  - first:
+      213: -8583738828143411279
+    second: 2sjoelbak_uitleg_00081
+  - first:
+      213: 3545501350965558437
+    second: 2sjoelbak_uitleg_00082
+  - first:
+      213: 3406535263172689201
+    second: 2sjoelbak_uitleg_00083
+  - first:
+      213: -6893432965981774059
+    second: 2sjoelbak_uitleg_00084
+  - first:
+      213: 5269243169019083811
+    second: 2sjoelbak_uitleg_00085
+  - first:
+      213: 4540678079307339887
+    second: 2sjoelbak_uitleg_00086
+  - first:
+      213: -9217115214743172212
+    second: 2sjoelbak_uitleg_00087
+  - first:
+      213: 7912248550908579370
+    second: 2sjoelbak_uitleg_00088
+  - first:
+      213: 4506458955332789274
+    second: 2sjoelbak_uitleg_00089
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15304
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd8da238008430c0800000000000000
+      internalID: -4596908546940105218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00001
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 15304
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4ae98203b91bc90800000000000000
+      internalID: -7155767701772786460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00002
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 15304
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f38d281082cc7190800000000000000
+      internalID: -7963276185680641040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00003
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 15304
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b4512e76a0ed610800000000000000
+      internalID: 1647765954955135806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00004
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 15304
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb6cbfe1f264cc30800000000000000
+      internalID: 4378733528959708128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00005
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 15304
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0765d5e87767cc730800000000000000
+      internalID: 4020718823196677744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00006
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 15304
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad36e87a63641cc0800000000000000
+      internalID: -3741256081492001369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00007
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 15304
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cadc8825584e2c0800000000000000
+      internalID: -4403247946132509602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14224
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b588bb3d5608ae380800000000000000
+      internalID: -8941192935358363557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00009
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 14224
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545abe4e869a9aaa0800000000000000
+      internalID: -6149197548215360187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00010
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 14224
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a296a00db9b0aa90800000000000000
+      internalID: -7304634374184070492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00011
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 14224
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d7619088bc58f50800000000000000
+      internalID: 6883131390634130729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00012
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 14224
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5feed41a69b5b90800000000000000
+      internalID: -7252037155408644656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00013
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 14224
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bb27cb9064378d0800000000000000
+      internalID: -2849857131565106355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00014
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 14224
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759505bca910d4b50800000000000000
+      internalID: 6578916395005794647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00015
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 14224
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047112270bc4280f0800000000000000
+      internalID: -1116245436921735360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13144
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fb5d3c987263f30800000000000000
+      internalID: 4554871545781403433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00017
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 13144
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d23812a29943afb0800000000000000
+      internalID: -4637782297127931182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00018
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 13144
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ef6dd5d25319710800000000000000
+      internalID: 1698197003459559030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00019
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 13144
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3348d860aa3793a20800000000000000
+      internalID: 3042590197357052979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00020
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 13144
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41da4f180fc873110800000000000000
+      internalID: 1240615186964196628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00021
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 13144
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168ced0c324010700800000000000000
+      internalID: 504689184848398433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00022
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 13144
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca84dbed33d56cf0800000000000000
+      internalID: -259569140600894784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00023
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 13144
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988c90489643bed20800000000000000
+      internalID: 3308795979025205385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00024
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12064
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9215f8e3c7511290800000000000000
+      internalID: -7921453770629377381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00025
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 12064
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72693f5696d8975d0800000000000000
+      internalID: -3064262587627366873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00026
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 12064
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d545f9c3a1cf140800000000000000
+      internalID: 4754704154269867316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00027
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 12064
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb435146f05ba17d0800000000000000
+      internalID: -2946843928452320068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00028
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 12064
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe91b49a4ed300160800000000000000
+      internalID: 6989654673981118959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00029
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 12064
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d9e1fe8d42cbcb0800000000000000
+      internalID: -4846958584814199480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00030
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 12064
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c6f5d69180183c0800000000000000
+      internalID: -4359194059015754650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00031
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 12064
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9103778a41e5dddf0800000000000000
+      internalID: -153863369441988583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00032
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10984
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd3511fe06d63520800000000000000
+      internalID: 2681565987808296435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00033
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 10984
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413bdd1136b6ad980800000000000000
+      internalID: -8513374072344825068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00034
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 10984
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d38a2cb5b22ee30800000000000000
+      internalID: 4531231848195964292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00035
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 10984
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff3c9d6dd64d8e30800000000000000
+      internalID: 4507336718908407799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00036
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 10984
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3410ae663a35e90800000000000000
+      internalID: -7038102130242010155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00037
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 10984
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5add94663844650800000000000000
+      internalID: 6216237861027292640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00038
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 10984
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c3bd14cecad5990800000000000000
+      internalID: -7395564882355340160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00039
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 10984
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf0085d1f9f05180800000000000000
+      internalID: -9128521627615621187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00040
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9904
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77766baa7bc10710800000000000000
+      internalID: 1657829865571121020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00041
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 9904
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce3addc9f5e2f380800000000000000
+      internalID: -8938829449313763633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00042
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 9904
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d226e92a061d2cd50800000000000000
+      internalID: 6756192603984519725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00043
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 9904
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e612c9de1b9cacb0800000000000000
+      internalID: -4851332141780166944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00044
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 9904
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05195a0c8289bdda0800000000000000
+      internalID: -5918969984450195120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00045
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 9904
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192412647246a36a0800000000000000
+      internalID: -6468747794921209199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00046
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 9904
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2466d55e6720a7b00800000000000000
+      internalID: 826976191253407298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00047
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 9904
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a06f9a5ada88eb0800000000000000
+      internalID: -4717329682637911451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00048
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8824
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209e4338adf098c40800000000000000
+      internalID: 5514956649870452994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00049
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 8824
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac22a5a469be6d420800000000000000
+      internalID: 2654568061106528970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00050
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 8824
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1e5d22754279a60800000000000000
+      internalID: 7680647646168867270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00051
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 8824
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a1f8755443a1c30800000000000000
+      internalID: 4330831464096537234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00052
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 8824
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb38ac3475de05b60800000000000000
+      internalID: 7732941519250424763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00053
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 8824
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ae6cf2da2220ef0800000000000000
+      internalID: -143514110896182703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00054
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 8824
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f5d0f318bc608f0800000000000000
+      internalID: -574548146474098843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00055
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 8824
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fee9452f07843af0800000000000000
+      internalID: -417560366318752010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00056
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7744
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b7a09faeec82ee0800000000000000
+      internalID: -1285550185018393829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00057
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 7744
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8eae9251f65952b0800000000000000
+      internalID: -5595345467557892467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00058
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 7744
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3f070df7d1f47f0800000000000000
+      internalID: -626249388386094112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00059
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 7744
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebeac0561acc50c0800000000000000
+      internalID: -4585568123376440348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00060
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 7744
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30f6b6761a9da9c0800000000000000
+      internalID: -3914303079843434435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00061
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 7744
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb905dce26379c310800000000000000
+      internalID: 1425797625756846527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00062
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 7744
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285e8b923da847050800000000000000
+      internalID: 5797411259875386754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00063
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 7744
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b570f9a1207f1e260800000000000000
+      internalID: 7125247673885460315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00064
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6664
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c56efef26ffe440800000000000000
+      internalID: 4967459599761693803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00065
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 6664
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d27e367a1a91a510800000000000000
+      internalID: 1558696384490533588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00066
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 6664
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f57a2f2536296650800000000000000
+      internalID: 6226549969682855416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00067
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 6664
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c7dedeb94540370800000000000000
+      internalID: 8287842242956983436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00068
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 6664
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da63dde5847820ce0800000000000000
+      internalID: -1440440185906186579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00069
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 6664
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3d7efc22fb135f0800000000000000
+      internalID: -778631104320515156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00070
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 6664
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7251213645e20b0800000000000000
+      internalID: -5751566889623672857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00071
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 6664
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66c54a2058413250800000000000000
+      internalID: 5922594494112712299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00072
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5584
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe022d387841e5420800000000000000
+      internalID: 2620554605440934127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00073
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5584
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac81e5cdde831f3b0800000000000000
+      internalID: -5480536677277624118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00074
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5584
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc1c7c652feeee20800000000000000
+      internalID: 3381903314214722814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00075
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5584
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc6ffea72a523750800000000000000
+      internalID: 6283183556621462775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00076
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5584
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2a0ca106be99660800000000000000
+      internalID: 7393199061303599839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00077
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 5584
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eece93aac9c4b940800000000000000
+      internalID: 5311091732742328036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00078
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 5584
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b181aa2418693100800000000000000
+      internalID: 88216103534297521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00079
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 5584
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8856b2a1d32680450800000000000000
+      internalID: 6055197713571210632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00080
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4504
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30467417d1d0b330800000000000000
+      internalID: 3724707613526868028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00081
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4504
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfb8cfa30f60e880800000000000000
+      internalID: -8583738828143411279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00082
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4504
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac38fe91b6243130800000000000000
+      internalID: 3545501350965558437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00083
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4504
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dff34f5c1764f20800000000000000
+      internalID: 3406535263172689201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00084
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4504
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f50bb8d3b9550a0800000000000000
+      internalID: -6893432965981774059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00085
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 4504
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c398c9ebc102940800000000000000
+      internalID: 5269243169019083811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00086
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 4504
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f685484d7aab30f30800000000000000
+      internalID: 4540678079307339887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00087
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 4504
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b826beb8a361080800000000000000
+      internalID: -9217115214743172212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00088
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3424
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e418bd224fdcd60800000000000000
+      internalID: 7912248550908579370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2sjoelbak_uitleg_00089
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3424
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a142d7b2b882a8e30800000000000000
+      internalID: 4506458955332789274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

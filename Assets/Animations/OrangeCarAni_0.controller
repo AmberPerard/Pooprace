@@ -52,7 +52,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: OrangeCarIdle
-  m_Speed: 0.2
+  m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
   m_StateMachineBehaviours: []
@@ -64,7 +64,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 1d980b730813345f1904082a368a9c9f, type: 2}
+  m_Motion: {fileID: 7400000, guid: 7582e4623f76e48f5ac75224790464b7, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 

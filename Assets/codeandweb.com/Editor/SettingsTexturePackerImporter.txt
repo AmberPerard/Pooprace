@@ -2,6 +2,7 @@ version: 2
 importPivots: 1
 tpsheetFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+<<<<<<< HEAD
 - Assets/SpriteSheets/_rrows 1.tpsheet
 - Assets/SpriteSheets/_rrows 2.tpsheet
 - Assets/SpriteSheets/_rrows.tpsheet
@@ -12,10 +13,49 @@ textureFileNames:
 - Assets/SpriteSheets/arrows.png
 - Assets/SpriteSheets/arrows.png
 - Assets/SpriteSheets/BlueCarAni.png
+=======
+- Assets/SpriteSheets/_rrows.tpsheet
+- Assets/SpriteSheets/carBlue.tpsheet
+- Assets/SpriteSheets/carGreen.tpsheet
+- Assets/SpriteSheets/carOrange.tpsheet
+- Assets/SpriteSheets/carRed.tpsheet
+- Assets/SpriteSheets/containerBlue.tpsheet
+- Assets/SpriteSheets/containerGreen.tpsheet
+- Assets/SpriteSheets/containerOrange.tpsheet
+- Assets/SpriteSheets/containerRed.tpsheet
+- Assets/SpriteSheets/podium.tpsheet
+- Assets/SpriteSheets/sjoelbak.tpsheet
+- Assets/SpriteSheets/Sjoelbak.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/SpriteSheets/arrows.png
+- Assets/SpriteSheets/carBlue.png
+- Assets/SpriteSheets/carGreen.png
+- Assets/SpriteSheets/carOrange.png
+- Assets/SpriteSheets/carRed.png
+- Assets/SpriteSheets/containerBlue.png
+- Assets/SpriteSheets/containerGreen.png
+- Assets/SpriteSheets/containerOrange.png
+- Assets/SpriteSheets/containerRed.png
+- Assets/SpriteSheets/podium.png
+- Assets/SpriteSheets/sjoelbak.png
+- Assets/SpriteSheets/sjoelbak.png
+>>>>>>> 83435f1a45efe4c6e85313841e3b39b545d37380
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
 - 
 - 
 - 
 - 
+<<<<<<< HEAD
+=======
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+>>>>>>> 83435f1a45efe4c6e85313841e3b39b545d37380
 enableDebugOutput: 0
