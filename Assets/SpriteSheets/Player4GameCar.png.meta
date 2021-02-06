@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 133e86d84499e444083473c8f9d8ec2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7993963845897577886
+    second: Player4GameCar_0
+  - first:
+      213: -6742684980340813176
+    second: Player4GameCar_1
+  - first:
+      213: 8217839565826010617
+    second: Player4GameCar_2
+  - first:
+      213: -4682317411963241938
+    second: Player4GameCar_3
+  - first:
+      213: -5055852760973497827
+    second: Player4GameCar_4
+  - first:
+      213: 7286556030363254820
+    second: Player4GameCar_5
+  - first:
+      213: 2581614436262050486
+    second: Player4GameCar_6
+  - first:
+      213: 7904474789655165828
+    second: Player4GameCar_7
+  - first:
+      213: 8948995173228430474
+    second: Player4GameCar_8
+  - first:
+      213: 6247197275362502348
+    second: Player4GameCar_9
+  - first:
+      213: 5848707291155372378
+    second: Player4GameCar_10
+  - first:
+      213: 4587827144935023442
+    second: Player4GameCar_11
+  - first:
+      213: -5750075610960293277
+    second: Player4GameCar_12
+  - first:
+      213: -7223095472231886062
+    second: Player4GameCar_13
+  - first:
+      213: -7126182234212850133
+    second: Player4GameCar_14
+  - first:
+      213: 5648767195465561371
+    second: Player4GameCar_15
+  - first:
+      213: 4086476620792710159
+    second: Player4GameCar_16
+  - first:
+      213: 1767181228373238124
+    second: Player4GameCar_17
+  - first:
+      213: 8467440338277850113
+    second: Player4GameCar_18
+  - first:
+      213: 4406056195094974550
+    second: Player4GameCar_19
+  - first:
+      213: -3042471344754077080
+    second: Player4GameCar_20
+  - first:
+      213: -7035875061091815164
+    second: Player4GameCar_21
+  - first:
+      213: 5170620579588731552
+    second: Player4GameCar_22
+  - first:
+      213: 3621635013988724563
+    second: Player4GameCar_23
+  - first:
+      213: 4529788477586298339
+    second: Player4GameCar_24
+  - first:
+      213: -7941460444960821599
+    second: Player4GameCar_25
+  - first:
+      213: -4031750519416497336
+    second: Player4GameCar_26
+  - first:
+      213: 2342305266552402097
+    second: Player4GameCar_27
+  - first:
+      213: -7363279506387885699
+    second: Player4GameCar_28
+  - first:
+      213: 5237907769195578270
+    second: Player4GameCar_29
+  - first:
+      213: -3246956971788644968
+    second: Player4GameCar_30
+  - first:
+      213: -7735995269471848876
+    second: Player4GameCar_31
+  - first:
+      213: -3357665536001738458
+    second: Player4GameCar_32
+  - first:
+      213: -9141154052787994046
+    second: Player4GameCar_33
+  - first:
+      213: -1024216682641469596
+    second: Player4GameCar_0
+  - first:
+      213: 2393466200271435701
+    second: Player4GameCar_1
+  - first:
+      213: 4657729923510615465
+    second: Player4GameCar_2
+  - first:
+      213: -8437163534777795739
+    second: Player4GameCar_3
+  - first:
+      213: 5347018752085503155
+    second: Player4GameCar_4
+  - first:
+      213: -3825913321874511978
+    second: Player4GameCar_5
+  - first:
+      213: -5981985775704078862
+    second: Player4GameCar_6
+  - first:
+      213: -1351626024759068481
+    second: Player4GameCar_7
+  - first:
+      213: -8878828428748829170
+    second: Player4GameCar_8
+  - first:
+      213: 2015222858839584996
+    second: Player4GameCar_9
+  - first:
+      213: 9108984922097822212
+    second: Player4GameCar_10
+  - first:
+      213: 6369641102240665990
+    second: Player4GameCar_11
+  - first:
+      213: 7375586691113918952
+    second: Player4GameCar_12
+  - first:
+      213: -4540632107431099528
+    second: Player4GameCar_13
+  - first:
+      213: -9090797302194967468
+    second: Player4GameCar_14
+  - first:
+      213: 7902731381213500612
+    second: Player4GameCar_15
+  - first:
+      213: -6951166127435830924
+    second: Player4GameCar_16
+  - first:
+      213: -4011796216792198923
+    second: Player4GameCar_17
+  - first:
+      213: -860173416136133875
+    second: Player4GameCar_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player4GameCar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1677
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f402a8a5049c1f0800000000000000
+      internalID: -1024216682641469596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1677
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b73519f3dc473120800000000000000
+      internalID: 2393466200271435701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_2
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1677
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adbe8e00b493a040800000000000000
+      internalID: 4657729923510615465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_3
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1677
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bb0b5977c29ea80800000000000000
+      internalID: -8437163534777795739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1306
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bca86da93d643a40800000000000000
+      internalID: 5347018752085503155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1306
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6972c34ba10a7eac0800000000000000
+      internalID: -3825913321874511978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_6
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1306
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f508b381a7bbfca0800000000000000
+      internalID: -5981985775704078862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_7
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1306
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8ff0daa4f0e3de0800000000000000
+      internalID: -1351626024759068481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 935
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e49ca069018c480800000000000000
+      internalID: -8878828428748829170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 935
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e07164538287fb10800000000000000
+      internalID: 2015222858839584996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_10
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 935
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aa702768d996e70800000000000000
+      internalID: 9108984922097822212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_11
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 935
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68158cda5d2856850800000000000000
+      internalID: 6369641102240665990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1a1fd94095b5660800000000000000
+      internalID: 7375586691113918952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 564
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87306d4d72f6cf0c0800000000000000
+      internalID: -4540632107431099528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_14
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 564
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ce69dc40007d180800000000000000
+      internalID: -9090797302194967468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_15
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 564
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4109c12542cad60800000000000000
+      internalID: 7902731381213500612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479a5776c3f788f90800000000000000
+      internalID: -6951166127435830924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 193
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f058d2a89c3358c0800000000000000
+      internalID: -4011796216792198923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player4GameCar_18
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 193
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03b8fdd5dc0014f0800000000000000
+      internalID: -860173416136133875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

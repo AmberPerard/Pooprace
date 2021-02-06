@@ -3,19 +3,31 @@ importPivots: 1
 tpsheetFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
 - Assets/SpriteSheets/Arrows.tpsheet
+- Assets/SpriteSheets/Player1GameCar.tpsheet
 - Assets/SpriteSheets/Player1Score.tpsheet
+- Assets/SpriteSheets/Player2GameCar.tpsheet
 - Assets/SpriteSheets/Player2Score.tpsheet
+- Assets/SpriteSheets/Player3GameCar.tpsheet
 - Assets/SpriteSheets/Player3Score.tpsheet
+- Assets/SpriteSheets/Player4GameCar.tpsheet
 - Assets/SpriteSheets/Player4Score.tpsheet
 textureFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
 - Assets/SpriteSheets/arrows.png
+- Assets/SpriteSheets/Player1GameCar.png
 - Assets/SpriteSheets/Player1Score.png
+- Assets/SpriteSheets/Player2GameCar.png
 - Assets/SpriteSheets/Player2Score.png
+- Assets/SpriteSheets/Player3GameCar.png
 - Assets/SpriteSheets/Player3Score.png
+- Assets/SpriteSheets/Player1GameCar.png
 - Assets/SpriteSheets/Player4Score.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
 - 
 - 
 - 

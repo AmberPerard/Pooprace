@@ -1,0 +1,35 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:046f85916aa1d922821d82484186c81f:aa25ac2c616b075bae21efa8720603f3:0997ad5ca04635c172d74f89a7ea661a$
+#
+:format=40300
+:texture=Player3GameCar.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+4cars_green_00000;0;1677;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00001;464;1677;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00002;928;1677;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00003;1392;1677;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00004;0;1306;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00005;464;1306;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00006;928;1306;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00007;1392;1306;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00008;0;935;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00009;464;935;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00010;0;1677;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00011;928;935;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00012;1392;935;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00013;0;564;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00014;464;564;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00015;928;564;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00016;1392;564;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00017;0;193;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00018;464;193;464;371; 0.5;0.5; 0;0;0;0
+4cars_green_00019;928;193;464;371; 0.5;0.5; 0;0;0;0
