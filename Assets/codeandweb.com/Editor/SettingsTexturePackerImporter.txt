@@ -1,0 +1,21 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/SpriteSheets/_rrows 1.tpsheet
+- Assets/SpriteSheets/_rrows 2.tpsheet
+- Assets/SpriteSheets/_rrows.tpsheet
+- Assets/SpriteSheets/BlueCarAni.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/SpriteSheets/arrows.png
+- Assets/SpriteSheets/arrows.png
+- Assets/SpriteSheets/arrows.png
+- Assets/SpriteSheets/BlueCarAni.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

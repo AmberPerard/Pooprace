@@ -59,6 +59,66 @@ TextureImporter:
   - first:
       213: -6191289440472590526
     second: BlueCarAni_18
+  - first:
+      213: 8880699565465690036
+    second: 3cars_blue_00000
+  - first:
+      213: -8201315980750917907
+    second: 3cars_blue_00001
+  - first:
+      213: -1698608272669848873
+    second: 3cars_blue_00002
+  - first:
+      213: 2881850364294281762
+    second: 3cars_blue_00003
+  - first:
+      213: 580201067266330957
+    second: 3cars_blue_00004
+  - first:
+      213: 6833030221576947760
+    second: 3cars_blue_00005
+  - first:
+      213: 5293657072681127005
+    second: 3cars_blue_00006
+  - first:
+      213: -5674033625454152404
+    second: 3cars_blue_00007
+  - first:
+      213: 1278946204162312797
+    second: 3cars_blue_00008
+  - first:
+      213: 8785057157547676904
+    second: 3cars_blue_00009
+  - first:
+      213: -2357959340395669663
+    second: 3cars_blue_00010
+  - first:
+      213: 8073056018966653934
+    second: 3cars_blue_00011
+  - first:
+      213: 5463693575279286675
+    second: 3cars_blue_00012
+  - first:
+      213: -154010779693572886
+    second: 3cars_blue_00013
+  - first:
+      213: 423431107206008903
+    second: 3cars_blue_00014
+  - first:
+      213: -9129968104730071028
+    second: 3cars_blue_00015
+  - first:
+      213: -2342957736909416024
+    second: 3cars_blue_00016
+  - first:
+      213: 407104500495104992
+    second: 3cars_blue_00017
+  - first:
+      213: -9101145959968873678
+    second: 3cars_blue_00018
+  - first:
+      213: 2589111948147827407
+    second: 3cars_blue_00019
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -99,8 +159,8 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
-  spriteMeshType: 1
+  spriteExtrude: 0
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -170,400 +230,421 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BlueCarAni_0
+      name: 3cars_blue_00000
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1675
-        width: 466
-        height: 373
+        x: 1
+        y: 1676
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 47b68a59f41e6eba0800000000000000
-      internalID: -6059908516650914956
+      spriteID: 4bf5c8ce3359e3b70800000000000000
+      internalID: 8880699565465690036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_1
+      name: 3cars_blue_00001
       rect:
         serializedVersion: 2
-        x: 466
-        y: 1675
-        width: 466
-        height: 373
+        x: 467
+        y: 1676
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 20d9ccf5e6b89e4f0800000000000000
-      internalID: -798954152711643902
+      spriteID: dee6b9461921f2e80800000000000000
+      internalID: -8201315980750917907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_2
+      name: 3cars_blue_00002
       rect:
         serializedVersion: 2
-        x: 932
-        y: 1675
-        width: 466
-        height: 373
+        x: 933
+        y: 1676
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d7b73a0ec3a205840800000000000000
-      internalID: 5210711209822878589
+      spriteID: 7da49fe86c45d68e0800000000000000
+      internalID: -1698608272669848873
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_3
+      name: 3cars_blue_00003
       rect:
         serializedVersion: 2
-        x: 1398
-        y: 1675
-        width: 466
-        height: 373
+        x: 1399
+        y: 1676
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5726144f09778e5f0800000000000000
-      internalID: -727199875363413387
+      spriteID: 22a379b33a36ef720800000000000000
+      internalID: 2881850364294281762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_4
+      name: 3cars_blue_00004
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1302
-        width: 466
-        height: 373
+        x: 1
+        y: 1303
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 51ac2172ce273c790800000000000000
-      internalID: -7511033394930464235
+      spriteID: d4156b0fbc94d0800800000000000000
+      internalID: 580201067266330957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_5
+      name: 3cars_blue_00005
       rect:
         serializedVersion: 2
-        x: 466
-        y: 1302
-        width: 466
-        height: 373
+        x: 1
+        y: 930
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8e022b0f8c029abd0800000000000000
-      internalID: -2618525660935479064
+      spriteID: 0384a9898ccc3de50800000000000000
+      internalID: 6833030221576947760
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_6
+      name: 3cars_blue_00006
       rect:
         serializedVersion: 2
-        x: 932
-        y: 1302
-        width: 466
-        height: 373
+        x: 1
+        y: 557
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9ee1deefa9b940bf0800000000000000
-      internalID: -358990980278575383
+      spriteID: d5c84e38f09d67940800000000000000
+      internalID: 5293657072681127005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_7
+      name: 3cars_blue_00007
       rect:
         serializedVersion: 2
-        x: 1398
-        y: 1302
-        width: 466
-        height: 373
+        x: 1
+        y: 184
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f95938eec0d3153b0800000000000000
-      internalID: -5525568142056385121
+      spriteID: c25fe2fda78c141b0800000000000000
+      internalID: -5674033625454152404
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_8
+      name: 3cars_blue_00008
       rect:
         serializedVersion: 2
-        x: 0
-        y: 929
-        width: 466
-        height: 373
+        x: 467
+        y: 1303
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: fada05ccbf25776d0800000000000000
-      internalID: -2992832185946296913
+      spriteID: d5acde9ebcabfb110800000000000000
+      internalID: 1278946204162312797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_9
+      name: 3cars_blue_00009
       rect:
         serializedVersion: 2
-        x: 466
-        y: 929
-        width: 466
-        height: 373
+        x: 933
+        y: 1303
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bc4942c8260adb960800000000000000
-      internalID: 7619422489699194059
+      spriteID: 8e4d12780facae970800000000000000
+      internalID: 8785057157547676904
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_10
+      name: 3cars_blue_00010
       rect:
         serializedVersion: 2
-        x: 932
-        y: 929
-        width: 466
-        height: 373
+        x: 1
+        y: 1676
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ea0bc6a3e570b59a0800000000000000
-      internalID: -6243388357130538834
+      spriteID: 167d6e01978d64fd0800000000000000
+      internalID: -2357959340395669663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_11
+      name: 3cars_blue_00011
       rect:
         serializedVersion: 2
-        x: 1398
-        y: 929
-        width: 466
-        height: 373
+        x: 1399
+        y: 1303
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9313bd1dc4e1813e0800000000000000
-      internalID: -2082881512371703495
+      spriteID: eeb26562da1490070800000000000000
+      internalID: 8073056018966653934
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_12
+      name: 3cars_blue_00012
       rect:
         serializedVersion: 2
-        x: 0
-        y: 556
-        width: 466
-        height: 373
+        x: 467
+        y: 930
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 081e588f6536641e0800000000000000
-      internalID: -2213972941618159232
+      spriteID: 3991b1cdb50f2db40800000000000000
+      internalID: 5463693575279286675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_13
+      name: 3cars_blue_00013
       rect:
         serializedVersion: 2
-        x: 466
-        y: 556
-        width: 466
-        height: 373
+        x: 467
+        y: 557
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3d3c525195e10c070800000000000000
-      internalID: 8124527095732093907
+      spriteID: aec98c80308dcddf0800000000000000
+      internalID: -154010779693572886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_14
+      name: 3cars_blue_00014
       rect:
         serializedVersion: 2
-        x: 932
-        y: 556
-        width: 466
-        height: 373
+        x: 467
+        y: 184
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e79332293c6a63c90800000000000000
-      internalID: -7190376396149802626
+      spriteID: 7405ddb395450e500800000000000000
+      internalID: 423431107206008903
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_15
+      name: 3cars_blue_00015
       rect:
         serializedVersion: 2
-        x: 1398
-        y: 556
-        width: 466
-        height: 373
+        x: 933
+        y: 930
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 1072cb434a1b383a0800000000000000
-      internalID: -6664287704760703231
+      spriteID: c00fae2a166db4180800000000000000
+      internalID: -9129968104730071028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_16
+      name: 3cars_blue_00016
       rect:
         serializedVersion: 2
-        x: 0
-        y: 183
-        width: 466
-        height: 373
+        x: 1399
+        y: 930
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d68e49bd44a4ae380800000000000000
-      internalID: -8941252450588497811
+      spriteID: 8a9d2cf0a542c7fd0800000000000000
+      internalID: -2342957736909416024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_17
+      name: 3cars_blue_00017
       rect:
         serializedVersion: 2
-        x: 466
-        y: 183
-        width: 466
-        height: 373
+        x: 933
+        y: 557
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2c9673949ec659540800000000000000
-      internalID: 5014033509358463426
+      spriteID: 0eb3972e26356a500800000000000000
+      internalID: 407104500495104992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueCarAni_18
+      name: 3cars_blue_00018
       rect:
         serializedVersion: 2
-        x: 932
-        y: 183
-        width: 466
-        height: 373
+        x: 933
+        y: 184
+        width: 464
+        height: 371
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 24711078e0f141aa0800000000000000
-      internalID: -6191289440472590526
+      spriteID: 233e21728fb32b180800000000000000
+      internalID: -9101145959968873678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3cars_blue_00019
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 557
+        width: 464
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc22211699f5ee320800000000000000
+      internalID: 2589111948147827407
       vertices: []
       indices: 
       edges: []
