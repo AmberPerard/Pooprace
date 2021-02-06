@@ -81,9 +81,13 @@ public class GameController : MonoBehaviour
             Place3.text = Carlist[2].scoreboardPosition.name;
             Place4.text = Carlist[3].scoreboardPosition.name;
 
-            IPlace1.sprite = Carlist[0].endSprite;
-            IPlace2.sprite = Carlist[1].endSprite;
-            IPlace3.sprite = Carlist[2].endSprite;
+            IPlace1.sprite = Carlist[0].EndPref.GetComponent<Image>().sprite;
+            IPlace2.sprite = Carlist[1].EndPref.GetComponent<Image>().sprite;
+            IPlace3.sprite = Carlist[2].EndPref.GetComponent<Image>().sprite;
+
+            IPlace1.GetComponent<Animator>().runtimeAnimatorController = Carlist[0].EndPref.GetComponent<Animator>().runtimeAnimatorController;
+            IPlace2.GetComponent<Animator>().runtimeAnimatorController = Carlist[1].EndPref.GetComponent<Animator>().runtimeAnimatorController;
+            IPlace3.GetComponent<Animator>().runtimeAnimatorController = Carlist[2].EndPref.GetComponent<Animator>().runtimeAnimatorController;
 
             //logic OR operator
             if (endTimer <= 0 ^ Input.GetKeyDown("space"))

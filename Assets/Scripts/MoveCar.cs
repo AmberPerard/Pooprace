@@ -14,7 +14,7 @@ public class MoveCar : MonoBehaviour
     public GameObject scoreboardPosition;
     public int position = 0;
 
-    public Sprite endSprite;
+    public GameObject EndPref;
 
     public bool end = false; 
 
