@@ -16,8 +16,9 @@ public class MoveCar : MonoBehaviour
 
     public GameObject EndPref;
 
-    public bool end = false; 
+    public bool end = false;
 
+    public AudioSource source;
     // Start is called before the first frame update
     void Start()
     {
@@ -35,6 +36,7 @@ public class MoveCar : MonoBehaviour
             {
                 transform.position = Vector3.MoveTowards(transform.position, target.position, step / 4);
                 position = position + 1;
+                source.Play();
             }
 
             if (transform.position == target.position)
