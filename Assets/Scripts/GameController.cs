@@ -27,7 +27,7 @@ public class GameController : MonoBehaviour
     public GameObject beginScreen;
     public GameObject endScreen;
 
-    public float startTimer = 10f;
+    public float startTimer = 15f;
     public Text StartTimer;
 
     private float endTimer = 100f;
