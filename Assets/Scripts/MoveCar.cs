@@ -35,6 +35,7 @@ public class MoveCar : MonoBehaviour
             if (Input.GetKeyDown(keyInput))
             {
                 transform.position = Vector3.MoveTowards(transform.position, target.position, step / 3);
+                position = position + 1;
                 source.Play();
             }
 
@@ -42,7 +43,7 @@ public class MoveCar : MonoBehaviour
             if (transform.position == target.position)
             {
                 end = true;
-                //Debug.Log("This car " + gameObject.name.ToString() + " has hit the finish line");
+                Debug.Log("This car " + gameObject.name.ToString() + " has hit the finish line");
             }
         }
      }
