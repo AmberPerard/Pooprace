@@ -49,15 +49,17 @@ public class GameController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //the timer for the countdown with the info shown in seconds
         startTimer -= Time.deltaTime;
         int seconds = Mathf.FloorToInt(startTimer);
         StartTimer.text = seconds.ToString();
 
+        // if the timer is zero start the game
         if (startTimer <= 0)
         {
             beginScreen.SetActive(false);
             gameIsActive = true;
-            // sort cars 
+            // sort cars to show the car that has the furthest positions first 
             Carlist.Sort((a, b) => (a.position).CompareTo(b.position));
             Carlist.Reverse();
 
@@ -69,38 +71,36 @@ public class GameController : MonoBehaviour
             Debug.Log(Carlist[0].carName);
         }
 
-
+        //checks if the first car has reached the end and stops the game
         if (Carlist[0].end == true)
         {
 
             endTimer -= Time.deltaTime;
             endScreen.SetActive(true);
             gameIsActive = false;
+
+            //show the text on the scoreboard
             Place1.text = Carlist[0].scoreboardPosition.name;
             Place2.text = Carlist[1].scoreboardPosition.name;
             Place3.text = Carlist[2].scoreboardPosition.name;
             Place4.text = Carlist[3].scoreboardPosition.name;
 
+            //show the car in the corresponding position
             IPlace1.sprite = Carlist[0].EndPref.GetComponent<Image>().sprite;
             IPlace2.sprite = Carlist[1].EndPref.GetComponent<Image>().sprite;
             IPlace3.sprite = Carlist[2].EndPref.GetComponent<Image>().sprite;
 
+            //add the animatator for the cars
             IPlace1.GetComponent<Animator>().runtimeAnimatorController = Carlist[0].EndPref.GetComponent<Animator>().runtimeAnimatorController;
             IPlace2.GetComponent<Animator>().runtimeAnimatorController = Carlist[1].EndPref.GetComponent<Animator>().runtimeAnimatorController;
             IPlace3.GetComponent<Animator>().runtimeAnimatorController = Carlist[2].EndPref.GetComponent<Animator>().runtimeAnimatorController;
 
+            // to create the loop for the installation
             //logic OR operator
             if (endTimer <= 0 ^ Input.GetKeyDown("space"))
             {
                 SceneManager.LoadScene(sceneName: "StartScene");
             }
         }
-
-
-        ////logic OR operator
-        //if (endTimer <= 0 ^ Input.GetKeyDown("space"))
-        //{
-        //    SceneManager.LoadScene(sceneName: "StartScene");
-        //}
     }
 }

@@ -8,6 +8,7 @@ public class MoveCarOnHit : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //gives keyinputs to every object
         GameObject currentObject1 = GameObject.Find("Player1Car");
         MoveCar currentObjectMove1 = currentObject1.GetComponent<MoveCar>();
         currentObjectMove1.keyInput = "f";
@@ -23,14 +24,6 @@ public class MoveCarOnHit : MonoBehaviour
         GameObject currentObject4 = GameObject.Find("Player4Car");
         MoveCar currentObjectMove4 = currentObject4.GetComponent<MoveCar>();
         currentObjectMove4.keyInput = "j";
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-       
-           
 
     }
 }
