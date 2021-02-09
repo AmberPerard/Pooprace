@@ -11,6 +11,9 @@ tpsheetFileNames:
 - Assets/SpriteSheets/Player3Score.tpsheet
 - Assets/SpriteSheets/Player4GameCar.tpsheet
 - Assets/SpriteSheets/Player4Score.tpsheet
+- Assets/SpriteSheets/podium.tpsheet
+- Assets/SpriteSheets/Scoring1.tpsheet
+- Assets/SpriteSheets/sjoelbak.tpsheet
 textureFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
 - Assets/SpriteSheets/arrows.png
@@ -22,8 +25,14 @@ textureFileNames:
 - Assets/SpriteSheets/Player3Score.png
 - Assets/SpriteSheets/Player1GameCar.png
 - Assets/SpriteSheets/Player4Score.png
+- Assets/SpriteSheets/podium.png
+- Assets/SpriteSheets/Scoring1.png
+- Assets/SpriteSheets/sjoelbak.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
 - 
 - 
 - 
