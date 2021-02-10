@@ -34,6 +34,11 @@ public class GameController : MonoBehaviour
 
     public bool gameIsActive = false;
 
+    public int oldPos1;
+    public int oldPos2;
+    public int oldPos3;
+    public int oldPos4;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -59,16 +64,29 @@ public class GameController : MonoBehaviour
         {
             beginScreen.SetActive(false);
             gameIsActive = true;
-            // sort cars to show the car that has the furthest positions first 
-            Carlist.Sort((a, b) => (a.position).CompareTo(b.position));
-            Carlist.Reverse();
 
-            Carlist[0].scoreboardPosition.transform.position = Vector3.MoveTowards(transform.position, target1.position, 1000);
-            Carlist[1].scoreboardPosition.transform.position = Vector3.MoveTowards(transform.position, target2.position, 1000);
-            Carlist[2].scoreboardPosition.transform.position = Vector3.MoveTowards(transform.position, target3.position, 1000);
-            Carlist[3].scoreboardPosition.transform.position = Vector3.MoveTowards(transform.position, target4.position, 1000);
+            if(oldPos1 != Carlist[0].position || oldPos2 != Carlist[1].position || oldPos3 != Carlist[2].position || oldPos4 != Carlist[3].position){
+                Debug.Log("change");
 
-            Debug.Log(Carlist[0].carName);
+                Carlist.Sort((a, b) => (a.position).CompareTo(b.position));
+                Carlist.Reverse();
+                
+                oldPos1 = Carlist[0].position;
+                oldPos2 = Carlist[1].position;
+                oldPos3 = Carlist[2].position;
+                oldPos4 = Carlist[3].position;
+            }
+            
+
+
+                // sort cars to show the car that has the furthest positions first 
+                Carlist[0].scoreboardPosition.transform.position = Vector3.MoveTowards(transform.position, target1.position, 1000);
+                Carlist[1].scoreboardPosition.transform.position = Vector3.MoveTowards(transform.position, target2.position, 1000);
+                Carlist[2].scoreboardPosition.transform.position = Vector3.MoveTowards(transform.position, target3.position, 1000);
+                Carlist[3].scoreboardPosition.transform.position = Vector3.MoveTowards(transform.position, target4.position, 1000);
+
+
+
         }
 
         //checks if the first car has reached the end and stops the game
