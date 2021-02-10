@@ -127,7 +127,7 @@ void loop() {
   buttonState4 = digitalRead(buttonPin4);
   if (buttonState4 == HIGH && pressed4 == false) {
     Keyboard.press('f');
-    //delay(10);
+    delay(1);
     Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
     pressed4 = true;
   }
