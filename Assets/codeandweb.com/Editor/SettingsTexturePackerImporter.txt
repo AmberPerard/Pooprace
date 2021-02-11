@@ -1,7 +1,6 @@
 version: 2
 importPivots: 1
 tpsheetFileNames:
-- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
 - Assets/SpriteSheets/Arrows.tpsheet
 - Assets/SpriteSheets/Player1GameCar.tpsheet
 - Assets/SpriteSheets/Player1Score.tpsheet
@@ -15,7 +14,6 @@ tpsheetFileNames:
 - Assets/SpriteSheets/Scoring1.tpsheet
 - Assets/SpriteSheets/sjoelbak.tpsheet
 textureFileNames:
-- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
 - Assets/SpriteSheets/arrows.png
 - Assets/SpriteSheets/Player1GameCar.png
 - Assets/SpriteSheets/Player1Score.png
@@ -29,7 +27,6 @@ textureFileNames:
 - Assets/SpriteSheets/Scoring1.png
 - Assets/SpriteSheets/sjoelbak.png
 normalmapFileNames:
-- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
 - 
 - 
 - 
