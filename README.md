@@ -3,7 +3,7 @@ Pooprace is a game made inspired by fair games in unity as a part in a 3 series 
 
 Links to the other games in this serie are found here:
 
--[Wack-A-Kak](https://github.com/Moongirl1207/Wack-A-Kak)
+-[Whack-A-Kak](https://github.com/Moongirl1207/Whack-A-Kak)
 
 -[Shitwassen](https://github.com/Moongirl1207/Shitwassen)
 
