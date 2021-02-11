@@ -4886,6 +4886,10 @@ MonoBehaviour:
   startTimer: 15
   StartTimer: {fileID: 395575466}
   gameIsActive: 0
+  oldPos1: 0
+  oldPos2: 0
+  oldPos3: 0
+  oldPos4: 0
 --- !u!82 &2046659341
 AudioSource:
   m_ObjectHideFlags: 0
@@ -4898,7 +4902,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 70dd709030db047089f060d04ea5ce47, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.05
+  m_Volume: 0.202
   m_Pitch: 1
   Loop: 0
   Mute: 0

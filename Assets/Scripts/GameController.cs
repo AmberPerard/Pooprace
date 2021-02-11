@@ -65,6 +65,7 @@ public class GameController : MonoBehaviour
             beginScreen.SetActive(false);
             gameIsActive = true;
 
+            //check if the old position is different from the new position, removes glitch effect from leaderboard
             if(oldPos1 != Carlist[0].position || oldPos2 != Carlist[1].position || oldPos3 != Carlist[2].position || oldPos4 != Carlist[3].position){
                 Debug.Log("change");
 
@@ -76,16 +77,11 @@ public class GameController : MonoBehaviour
                 oldPos3 = Carlist[2].position;
                 oldPos4 = Carlist[3].position;
             }
-            
-
-
                 // sort cars to show the car that has the furthest positions first 
                 Carlist[0].scoreboardPosition.transform.position = Vector3.MoveTowards(transform.position, target1.position, 1000);
                 Carlist[1].scoreboardPosition.transform.position = Vector3.MoveTowards(transform.position, target2.position, 1000);
                 Carlist[2].scoreboardPosition.transform.position = Vector3.MoveTowards(transform.position, target3.position, 1000);
                 Carlist[3].scoreboardPosition.transform.position = Vector3.MoveTowards(transform.position, target4.position, 1000);
-
-
 
         }
 

@@ -34,7 +34,7 @@ public class MoveCar : MonoBehaviour
         {
             if (Input.GetKeyDown(keyInput))
             {
-                transform.position = Vector3.MoveTowards(transform.position, target.position, step / 3);
+                transform.position = Vector3.MoveTowards(transform.position, target.position, step / 2);
                 position = position + 1;
                 source.Play();
             }
