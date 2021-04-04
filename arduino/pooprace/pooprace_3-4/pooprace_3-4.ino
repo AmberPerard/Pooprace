@@ -86,7 +86,7 @@ void loop() {
   buttonState = digitalRead(buttonPin);
   //if button state is high, and the button isn't pressed yet press right key on keyboard
   if (buttonState == HIGH && pressed == false) {
-    Keyboard.press('f');
+    Keyboard.press('c');
     delay(1);
     Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
     pressed = true;
@@ -100,7 +100,7 @@ void loop() {
   //button 2 player 1
   buttonState2 = digitalRead(buttonPin2);
   if (buttonState2 == HIGH && pressed2 == false) {
-    Keyboard.press('f');
+    Keyboard.press('v');
     delay(1);
     Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
     pressed2 = true;
@@ -113,7 +113,7 @@ void loop() {
   //button 3 player 1
   buttonState3 = digitalRead(buttonPin3);
   if (buttonState3 == HIGH && pressed3 == false) {
-    Keyboard.press('f');
+    Keyboard.press('b');
     delay(1);
     Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
     pressed3 = true;
@@ -126,7 +126,7 @@ void loop() {
   //button 4 player 1
   buttonState4 = digitalRead(buttonPin4);
   if (buttonState4 == HIGH && pressed4 == false) {
-    Keyboard.press('f');
+    Keyboard.press('n');
     delay(1);
     Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
     pressed4 = true;
@@ -139,7 +139,7 @@ void loop() {
   //button 1 player 2
   buttonState5 = digitalRead(buttonPin5);
   if (buttonState5 == HIGH && pressed5 == false) {
-    Keyboard.press('g');
+    Keyboard.press('e');
     delay(1);
     Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
     pressed5 = true;
@@ -152,7 +152,7 @@ void loop() {
   //button 2 player 2
   buttonState6 = digitalRead(buttonPin6);
   if (buttonState6 == HIGH && pressed6 == false) {
-    Keyboard.press('g');
+    Keyboard.press('o');
     delay(1);
     Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
     pressed6 = true;
@@ -165,7 +165,7 @@ void loop() {
   //button 3 player 2
   buttonState7 = digitalRead(buttonPin7);
   if (buttonState7 == HIGH && pressed7 == false) {
-    Keyboard.press('g');
+    Keyboard.press('p');
     delay(1);
     Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
     pressed7 = true;
@@ -178,7 +178,7 @@ void loop() {
   //button 4 player 2
       buttonState8 = digitalRead(buttonPin8);
   if (buttonState8 == HIGH && pressed8 == false) {
-    Keyboard.press('g');
+    Keyboard.press('s');
     delay(1);
     Keyboard.releaseAll(); // This is important after every Keyboard.press it will continue to be pressed
     pressed8 = true;
